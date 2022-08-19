@@ -1,13 +1,14 @@
 # UAI-Fly
 
 UAI-Fly
-Nosso projeto tem como principal objetivo auxiliar os clientes a se inspirar e encontrar as passagens como o melhor custo beneficio.  
-
+   Nosso projeto tem como principal objetivo, auxiliar os clientes a encontrar as passagens e pacotes de viagem com o melhor custo benefício. A UAI-Fly possui os melhores valores de passagens aéreas e pacotes de viajem di mercado, nosso trabalho é agrupar o valor de várias passagens e apresentar ao nosso cliente diversos tipos de voos, tanto para classe econômica quanto para a classe executiva, filtrando os melhores preços de acordo com a data de ida e de volta do passageiro.
+   Por fim mostraremos hotéis, pousadas, hostéis e muito mais lugares onde o cliente possa se hospedar, sempre seguindo os filtros definidos pelo mesmo e prezando pela qualidade e confiabilidade do local de hospedagem.
+   
 ## Integrantes
 
 * Henrique Santana Diniz
 * Vitor Fernandes
-* Beatriz Oliveira
+* Beatriz de Oliveira
 * Matheus Pereira
 * Maria Eduarda Chrispim
 * Pedro Afonso Maciel
