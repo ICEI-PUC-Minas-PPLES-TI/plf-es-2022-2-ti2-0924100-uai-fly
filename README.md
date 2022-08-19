@@ -1,6 +1,7 @@
 # UAI-Fly
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+UAI-Fly
+Nosso projeto tem como principal objetivo auxiliar os clientes a se inspirar e encontrar as passagens como o melhor custo beneficio.  
 
 ## Integrantes
 
