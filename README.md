@@ -12,7 +12,7 @@
 * Maria Eduarda Chrispim
 * Pedro Afonso Maciel
 
-## Professor
+## Professores
 
 * Cleiton Silva Tavares
 * Felipe Augusto Lima Reis	
