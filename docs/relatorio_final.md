@@ -1,18 +1,24 @@
-# TITULO DO PROJETO
+# UAI-Fly
 
 
-**Nome completo do Aluno 1, email do aluno 1**
+ **Beatriz De Oliveira, beatrizdeoliveira45@hotmail.com** 
 
-**Nome completo do Aluno 2, email do aluno 2**
+ **Henriqued Diniz , email do aluno 2**
 
-**Nome completo do Aluno 3, email do aluno 3**
-
+ **Maria Eduarda Chrispim, mariae.chrispims@gmail.com**
+ 
+ **Matheus Pereira, Matheuspcsilva25@gmail.com**
+ 
+ **Pedro Afonso, pedroafonso939@Yahoo.com.br**
+ 
+ **Vitor Souza, vifersouza@gmail.com**
 ---
 
 Professores:
 
-** Prof. NOme do Prof 1 **
-** Prof. NOme do Prof 2 **
+** Cleiton Silva Tavares **
+** Felipe Augusto Lima Reis **
+** Hugo Bastos de Paula **
 
 ---
 
