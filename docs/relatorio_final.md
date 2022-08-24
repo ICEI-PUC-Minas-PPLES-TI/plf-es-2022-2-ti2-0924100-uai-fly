@@ -16,9 +16,11 @@
 
 Professores:
 
-** Cleiton Silva Tavares **
-** Felipe Augusto Lima Reis **
-** Hugo Bastos de Paula **
+**Cleiton Silva Tavares**
+
+**Felipe Augusto Lima Reis**
+
+**Hugo Bastos de Paula**
 
 ---
 
