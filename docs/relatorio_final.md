@@ -39,8 +39,6 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 
 ## 1. Introdução
 
-A introdução deve apresentar de dois ou quatro parágrafos de contextualização do trabalho. 
-
     1.1 Contextualização
  Nosso projeto tem como principal objetivo, auxiliar os clientes a encontrar as passagens e pacotes de viagem com o melhor custo benefício. 
  A UAI-Fly possui os melhores valores de passagens aéreas e pacotes de viajem de mercado, nosso trabalho é agrupar o valor de várias 
