@@ -14,7 +14,10 @@
 
 ## Professor
 
-* Nome completo do professor
+* Cleiton Silva Tavares
+* Felipe Augusto Lima Reis	
+* Hugo Bastos de Paula
+
 
 ## Instruções de utilização
 
