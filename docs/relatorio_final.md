@@ -48,27 +48,19 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 
     1.2 Problema
 
-Em seguida o aluno deve caminhar a contextualização para descrever o **problema** que o artigo trata. 
-O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o aluno deve rapidamente apresentar 
-o cenário de problema da empresa. A empresa só deve ser citada explicitamente se o aluno tiver autorização 
-para tal.
+Podemos notar por meio de pesquisas, que as pessaos estao deixando de viajar de aviao pelo o motivo dos altos precos de passagem area e pelo medo de levarem golpes ao escolherem suas hospedagem de destino.
 
     1.3 Objetivo geral
 
-O aluno deve escrever um pequeno parágrafo ou frase com o **objetivo geral** do trabalho. 
-O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, ava-liar, comparar etc.).
+É uma aplicação que busca contribuir para achar os melhores valores de passagem aereas e confiabilidade de hospedagem.
 
         1.3.1 Objetivos específicos
-
-Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de onde você vai querer 
-concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
-
+        
+Nosso objetivo é agrupar o valor de várias passagens e apresentar ao nosso cliente diversos tipos de voos, tanto para classe econômica quanto para a classe executiva, 
+filtrando os melhores preços e lugares de confiaveis para se hospedar
     1.4 Justificativas
 
-Mostre também as **justificativas** para o 
-desenvolvimento do seu trabalho e, caso deseje, desta-que alguma contribuição do trabalho.
-
-
+Nosso grupo escolheu esse projeto pelo motivo de ter poucas aplicaçãos que buscam solucionar os problemas citados acima.
 ## 2. Participantes do processo
 
 Apresente aqui os diferentes perfis dos Stakeholders (participantes do processo) chave do sistema. Diversas são as informações que podem ser relevantes para a definição dos perfis dos usuários, tais como idade, gênero, aspectos culturais, nível de educação, entre outros. A pesquisa de mercado pode ser uma ferramenta poderosa para se identificar e caracterizar os perfis de usuários.
