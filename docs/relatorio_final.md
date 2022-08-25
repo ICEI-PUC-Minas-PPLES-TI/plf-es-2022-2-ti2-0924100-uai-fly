@@ -59,7 +59,7 @@ Podemos notar por meio de pesquisas, que as pessaos estao deixando de viajar de 
 Nosso objetivo é agrupar o valor de várias passagens e apresentar ao nosso cliente diversos tipos de voos, tanto para classe econômica quanto para a classe executiva, 
 filtrando os melhores preços e lugares de confiaveis para se hospedar
    
- 1.4 Justificativas
+    1.4 Justificativas
 
 Nosso grupo escolheu esse projeto pelo motivo de ter poucas aplicaçãos que buscam solucionar os problemas citados acima.
 ## 2. Participantes do processo
