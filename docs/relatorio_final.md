@@ -44,7 +44,7 @@ _Nosso projeto tem como principal objetivo, auxiliar os clientes a encontrar as 
 
     1.2 Problema
 
-Notamos que o problema está na dificuldade de achar pacotes de viagens com preços baixos e também a desconfiança de escolher um local de hospedagem.
+Notamos que o problema está na dificuldade de encontrar pacotes de viagens com preços baixos e também a desconfiança de escolher um local de hospedagem.
 
     1.3 Objetivo geral
 
@@ -62,7 +62,7 @@ Nosso grupo escolheu esse tema pelo motivo de ter poucas aplicações que buscam
 
 ## 2. Participantes do processo
 
-Apresente aqui os diferentes perfis dos Stakeholders (participantes do processo) chave do sistema. Diversas são as informações que podem ser relevantes para a definição dos perfis dos usuários, tais como idade, gênero, aspectos culturais, nível de educação, entre outros. A pesquisa de mercado pode ser uma ferramenta poderosa para se identificar e caracterizar os perfis de usuários.
+Em nossa aplicação teremos as seguintes entidades envolvidas: Empresa de aviação, na qual ofertará os melhores pacotes possíveis; Hotéis,pousadas, casas que irão fornecer um lugar de qualidade para serem alugados; Usuários que irão utilizar nosso aplicativo para essa intermediação.
 
 ## 3. Modelagem do processo de negócio
 
