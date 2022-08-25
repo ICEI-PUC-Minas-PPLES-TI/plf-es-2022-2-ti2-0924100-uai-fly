@@ -3,7 +3,7 @@
 
  **Beatriz De Oliveira, beatrizdeoliveira45@hotmail.com** 
 
- **Henriqued Diniz , email do aluno 2**
+ **Henriqued Diniz , henriquesantanadiniz@gmail.com**
 
  **Maria Eduarda Chrispim, mariae.chrispims@gmail.com**
  
