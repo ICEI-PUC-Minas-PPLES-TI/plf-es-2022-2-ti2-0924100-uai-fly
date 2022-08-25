@@ -31,8 +31,7 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Mi
 
 ---
 
-_**Resumo**. Escrever aqui o resumo. O resumo deve contextualizar rapidamente o trabalho, descrever seu objetivo e, ao final, 
-mostrar algum resultado relevante do trabalho (até 10 linhas)._
+_Nosso projeto tem como principal objetivo, auxiliar os clientes a encontrar as passagens e pacotes de viagem com o melhor custo benefício. A UAI-Fly possui os melhores valores de passagens aéreas e pacotes de viajem de mercado, nosso trabalho é agrupar o valor de várias passagens e apresentar ao nosso cliente diversos tipos de voos, tanto para classe econômica quanto para a classe executiva, filtrando os melhores preços de acordo com a data de ida e de volta do passageiro. Por fim mostraremos hotéis, pousadas, hostéis e muito mais lugares onde o cliente possa se hospedar, sempre seguindo os filtros definidos pelo mesmo e prezando pela qualidade e confiabilidade do local de hospedagem.
 
 ---
 
@@ -40,28 +39,27 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 ## 1. Introdução
 
     1.1 Contextualização
- Nosso projeto tem como principal objetivo, auxiliar os clientes a encontrar as passagens e pacotes de viagem com o melhor custo benefício. 
- A UAI-Fly possui os melhores valores de passagens aéreas e pacotes de viajem de mercado, nosso trabalho é agrupar o valor de várias 
- passagens e apresentar ao nosso cliente diversos tipos de voos, tanto para classe econômica quanto para a classe executiva, 
- filtrando os melhores preços de acordo com a data de ida e de volta do passageiro. 
- Por fim mostraremos hotéis, pousadas, hostéis e muito mais lugares onde o cliente possa se hospedar, sempre seguindo os filtros definidos pelo mesmo e prezando pela qualidade e confiabilidade do local de hospedagem.   
+ Devido ao aumento do dólar, os preços de passagens aéreas e hospedagens subiram bastante, o que contribui para a diminuição de tráfego aéreo e perda no setor de turismo.  O aplicativo em desenvolvimento, vem para auxiliar as pessoas a comprarem pacotes de viagens, passagens aéreas avulsas e hospedagem com os melhores preços, assim ajudando as pessoas nas melhores escolhas.
+ 
 
     1.2 Problema
 
-Podemos notar por meio de pesquisas, que as pessaos estao deixando de viajar de aviao pelo o motivo dos altos precos de passagem area e pelo medo de levarem golpes ao escolherem suas hospedagem de destino.
+Notamos que o problema está na dificuldade de achar pacotes de viagens com preços baixos e também a desconfiança de escolher um local de hospedagem.
 
     1.3 Objetivo geral
 
-É uma aplicação que busca contribuir para achar os melhores valores de passagem aereas e confiabilidade de hospedagem.
+É uma aplicação que busca contribuir para achar os melhores valores de passagens aéreas e confiabilidade de hospedagem. 
 
         1.3.1 Objetivos específicos
         
-Nosso objetivo é agrupar o valor de várias passagens e apresentar ao nosso cliente diversos tipos de voos, tanto para classe econômica quanto para a classe executiva, 
-filtrando os melhores preços e lugares de confiaveis para se hospedar
+Nosso objetivo é agrupar o valor de várias passagens e apresentar ao usuário diversos opção de passagens, tanto para classe econômica quanto para a classe executiva, 
+filtrando os melhores preços e lugares de confiança para se hospedar.
+
    
     1.4 Justificativas
 
-Nosso grupo escolheu esse projeto pelo motivo de ter poucas aplicaçãos que buscam solucionar os problemas citados acima.
+Nosso grupo escolheu esse tema pelo motivo de ter poucas aplicações que buscam solucionar os problemas citados acima.
+
 ## 2. Participantes do processo
 
 Apresente aqui os diferentes perfis dos Stakeholders (participantes do processo) chave do sistema. Diversas são as informações que podem ser relevantes para a definição dos perfis dos usuários, tais como idade, gênero, aspectos culturais, nível de educação, entre outros. A pesquisa de mercado pode ser uma ferramenta poderosa para se identificar e caracterizar os perfis de usuários.
