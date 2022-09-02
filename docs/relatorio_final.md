@@ -68,11 +68,11 @@ Em nossa aplicação teremos as seguintes entidades envolvidas: Empresa de avia�
 
 ## 3.1. Análise da situação atual
 
-Apresente uma descrição textual de como os sistemas atuais resolvem o problema que se propoe a resolver.  Caso sua proposta seja inovadora e não existam processos claramente definidos, **apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente**, mesmo que não se utilize tecnologia computacional.
+Hoje, a internet disponibiliza diversas opções de compras de passagens e pacotes de viagens. Existem diversos sites e plataformas que realizam vendas terceirizadas, onde as ofertas saem mais baratas, porém deviado a terceirização a segurança na compra é considerávelmente afetada.
 
 ## 3.2. Descrição Geral da proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+O nosso projeto tem como proposta, fazer as melhores comparações de preços, visando principalmente a confiabilidade do processo e a praticidade do uso da plataforma. 
 
 ## 3.3. Modelagem dos Processos
 
