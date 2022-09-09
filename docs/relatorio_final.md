@@ -72,7 +72,10 @@ Hoje, a internet disponibiliza diversas opções de compras de passagens e pacot
 
 ## 3.2. Descrição Geral da proposta
 
-O nosso projeto tem como proposta, fazer as melhores comparações de preços, visando principalmente a confiabilidade do processo e a praticidade do uso da plataforma. 
+A proposta do " Uai-Fly " consiste na criação de um sistema que auxilia o usuário encontrar
+as passagens aéreas, pacotes de viagem com o melhor custo e hospedagem confiáveis, assim
+passando um conforto para o usuário da aplicação.
+
 
 ## 3.3. Modelagem dos Processos
 
