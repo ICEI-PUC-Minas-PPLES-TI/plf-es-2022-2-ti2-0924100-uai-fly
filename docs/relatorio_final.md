@@ -93,8 +93,11 @@ Este processo mostra com será o sistema de despacho de bagagens. / O despacho s
 ![image](https://user-images.githubusercontent.com/111388245/190035219-6f041651-1ecd-4388-bbd0-1f7446290492.png)
 
 
-### 3.3.1 Processo 3–  Bagagem / Despacho 
+### 3.3.1 Processo 3–  Compra passagem
 
+Este processo mostra como será o processo da compra de passagens.
+
+![image](https://user-images.githubusercontent.com/99293679/190039863-7ba3a8bd-e27b-4301-aada-a4daeb55d9c0.png)
 
 
 ### 3.3.1 Processo 4–  Bagagem / Despacho 
