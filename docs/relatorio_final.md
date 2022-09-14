@@ -82,12 +82,14 @@ passando um conforto para o usuário da aplicação.
 ### 3.3.1 Processo 1 – Login / Cadastro
 
 Este Processo Mostra o sistema de login / cadastro solicitando o cartao de credito.
+
 ![git](https://user-images.githubusercontent.com/15385678/190031470-3e05b261-f52f-4d4f-8a07-d162b0a8ca79.png)
 
 
 ### 3.3.1 Processo 2 –  Bagagem / Despacho 
 
-Este processo mostra com será o sistema de despacho de bagagens. / O despacho solicita o peso da bagagem 
+Este processo mostra com será o sistema de despacho de bagagens. / O despacho solicita o peso da bagagem.
+
 ![image](https://user-images.githubusercontent.com/111388245/190035219-6f041651-1ecd-4388-bbd0-1f7446290492.png)
 
 
