@@ -79,11 +79,12 @@ passando um conforto para o usuário da aplicação.
 
 ## 3.3. Modelagem dos Processos
 
-### 3.3.1 Processo 1 – NOME DO PROCESSO
+### 3.3.1 Processo 1 – Login / Cadastro
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN.
+Este Processo Mostra o sistema de login / cadastro solicitando o cartao de credito.
+![git](https://user-images.githubusercontent.com/15385678/190031470-3e05b261-f52f-4d4f-8a07-d162b0a8ca79.png)
 
-![Exemplo de um Modelo BPMN do PROCESSO 1](imagens/process.png "Modelo BPMN do Processo 1.")
+
 
 
 ### 3.3.2 Processo 2 – NOME DO PROCESSO
