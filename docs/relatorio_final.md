@@ -100,8 +100,9 @@ Este processo mostra como será o processo da compra de passagens.
 ![image](https://user-images.githubusercontent.com/99293679/190039863-7ba3a8bd-e27b-4301-aada-a4daeb55d9c0.png)
 
 
-### 3.3.1 Processo 4–  Bagagem / Despacho 
+### 3.3.1 Processo 4–  Check-in
 
+![diagram_1](https://user-images.githubusercontent.com/104275211/190522657-cff211b4-a816-4bfa-935e-84fbabf225a5.png)
 
 
 ### 3.3.1 Processo 5 –  Bagagem / Despacho 
