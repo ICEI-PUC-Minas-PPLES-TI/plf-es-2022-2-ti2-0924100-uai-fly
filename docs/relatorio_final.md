@@ -114,7 +114,7 @@ Este processo mostra como será o processo do cancelamento de passagens.
 
 Este processo mostra como será realizado o processo de avaliação dos serviços oferecidos pelas empresas aéreas e de hospedagem.
 
-
+![Diagrama Processo de Avaliação](https://user-images.githubusercontent.com/104326131/190537422-8682ae49-38e7-427f-8962-c5d71752031b.png)
 
 
 ### 3.3.2 Processo 2 – NOME DO PROCESSO
