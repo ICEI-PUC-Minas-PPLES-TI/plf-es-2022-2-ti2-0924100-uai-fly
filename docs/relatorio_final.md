@@ -105,13 +105,13 @@ Este processo mostra como será o processo da compra de passagens.
 ![diagram_1](https://user-images.githubusercontent.com/104275211/190522657-cff211b4-a816-4bfa-935e-84fbabf225a5.png)
 
 
-### 3.3.1 Processo 5 –  Bagagem / Despacho 
+### 3.3.1 Processo 5 –  Cancelamento de passagens 
 
 
 
 ### 3.3.1 Processo 6 –  Avaliação dos serviços 
 
-
+Este processo mostra como será realizado o processo de avaliação dos serviços oferecidos pelas empresas aéreas e de hospedagem.
 
 
 
