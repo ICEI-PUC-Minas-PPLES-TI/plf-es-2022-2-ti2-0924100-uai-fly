@@ -107,6 +107,7 @@ Este processo mostra como será o processo da compra de passagens.
 
 ### 3.3.1 Processo 5 –  Cancelamento de passagens 
 Este processo mostra como será o processo do cancelamento de passagens.
+![diagram_1](https://user-images.githubusercontent.com/76188108/190535634-243ac16b-6886-4256-848a-852011540378.png)
 
 
 ### 3.3.1 Processo 6 –  Avaliação dos serviços 
