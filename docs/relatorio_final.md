@@ -3,7 +3,7 @@
 
  **Beatriz De Oliveira, beatrizdeoliveira45@hotmail.com** 
 
- **Henriqued Diniz , henriquesantanadiniz@gmail.com**
+ **Henrique Diniz , henriquesantanadiniz@gmail.com**
 
  **Maria Eduarda Chrispim, mariae.chrispims@gmail.com**
  
