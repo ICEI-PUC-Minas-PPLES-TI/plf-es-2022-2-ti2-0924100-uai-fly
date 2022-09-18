@@ -102,7 +102,8 @@ Este processo mostra como será o processo da compra de passagens.
 
 ### 3.3.1 Processo 4–  Check-in
 
-![diagram_1](https://user-images.githubusercontent.com/104275211/190522657-cff211b4-a816-4bfa-935e-84fbabf225a5.png)
+![image](https://user-images.githubusercontent.com/111388245/190881916-ab7b89fb-2554-4f44-8436-e400ccc2ce43.png)
+
 
 
 ### 3.3.1 Processo 5 –  Cancelamento de passagens 
