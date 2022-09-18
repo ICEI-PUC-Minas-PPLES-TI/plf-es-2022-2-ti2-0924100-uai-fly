@@ -102,6 +102,8 @@ Este processo mostra como será o processo da compra de passagens.
 
 ### 3.3.1 Processo 4–  Check-in
 
+Este processo mostra como será o processo de Check-in.
+
 ![image](https://user-images.githubusercontent.com/111388245/190881916-ab7b89fb-2554-4f44-8436-e400ccc2ce43.png)
 
 
@@ -117,12 +119,6 @@ Este processo mostra como será realizado o processo de avaliação dos serviço
 
 ![Diagrama Processo de Avaliação](https://user-images.githubusercontent.com/104326131/190537422-8682ae49-38e7-427f-8962-c5d71752031b.png)
 
-
-### 3.3.2 Processo 2 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Exemplo de um Modelo BPMN do PROCESSO 2](imagens/call_process.png "Modelo BPMN do Processo 2.")
 
 ## 4. Projeto da Solução
 
