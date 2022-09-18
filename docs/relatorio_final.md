@@ -104,7 +104,8 @@ Este processo mostra como será o processo da compra de passagens.
 
 Este processo mostra como será o processo de Check-in.
 
-![image](https://user-images.githubusercontent.com/111388245/190881916-ab7b89fb-2554-4f44-8436-e400ccc2ce43.png)
+![image](https://user-images.githubusercontent.com/111388245/190882261-12a494c2-0a19-46c5-8fdf-d11065d495bb.png)
+
 
 
 
