@@ -84,7 +84,7 @@ passando um conforto para o usuário da aplicação.
 Este Processo Mostra o sistema de login / cadastro solicitando o cartao de credito.
 
 
-![processo](https://user-images.githubusercontent.com/15385678/191861374-2b1a8433-15ea-4527-8a94-ce445d142d51.png)
+![reprovado01](https://user-images.githubusercontent.com/15385678/191861752-2fdbe850-5b0d-4a8a-9d33-8ade4342ff6e.png)
 
 
 
