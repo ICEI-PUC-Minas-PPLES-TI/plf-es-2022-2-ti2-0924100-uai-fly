@@ -48,12 +48,16 @@ Notamos que o problema está na dificuldade de encontrar pacotes de viagens com 
 
     1.3 Objetivo geral
 
-É uma aplicação que busca contribuir para achar os melhores valores de passagens aéreas e confiabilidade de hospedagem. 
+  Nosso objetivo é agrupar o valor de várias passagens e apresentar ao usuário diversos opção de passagens, tanto para classe econômica quanto para a classe executiva, 
+filtrando os melhores preços e lugares de confiança para se hospedar.
 
         1.3.1 Objetivos específicos
         
-Nosso objetivo é agrupar o valor de várias passagens e apresentar ao usuário diversos opção de passagens, tanto para classe econômica quanto para a classe executiva, 
-filtrando os melhores preços e lugares de confiança para se hospedar. Dessa forma, a empresa visa selecionra os melhores pacotes, garantindo segurança ao cliente e facilitando a vida do usuário.
+I- Selecionar os melhores pacotes;
+II- Garantir segurança ao cliente;
+III- Facilitar a busca por hotéis e passagens aéreas de segurança e com valores acessíveis;
+IV- Analisar o preço das passagens e hospedagens disponíveis;
+V- Oferecer aos clientes as melhores opções.
 
    
     1.4 Justificativas
@@ -106,9 +110,8 @@ Este processo mostra como será o processo da compra de passagens.
 ### 3.3.1 Processo 4–  Check-in
 
 Este processo mostra como será o processo de Check-in.
-![diagram_2](https://user-images.githubusercontent.com/104275211/191881099-386d179d-91f0-41d5-82ca-3964bd0bacfe.png)
 
-
+![image](https://user-images.githubusercontent.com/111388245/190882642-ecc92998-12d5-4b12-8a26-3bde5d244af1.png)
 
 
 
