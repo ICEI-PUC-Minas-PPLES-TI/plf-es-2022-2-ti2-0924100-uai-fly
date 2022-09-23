@@ -58,7 +58,7 @@ filtrando os melhores preços e lugares de confiança para se hospedar.
    
     1.4 Justificativas
 
-Nosso grupo escolheu esse tema pelo motivo de ter poucas aplicações que buscam solucionar os problemas citados acima.
+Apesar de existirem diversas empresas que vendem passagens e hospadagens, poucas aplicações buscam solucionar problemas, como a dificuldade em encontrar pacotes de viagens com preços abixos, além de muitas apresentarem informações que não são seguras, por exemplo, oferecendo passagens de voos não disponíveis ou hospedagens que não existem. Dessa forma, o nosso aplicativo visa facilitar a busca por hotéis e passagens aéreas de segurança e com valores acessíveis.
 
 ## 2. Participantes do processo
 
