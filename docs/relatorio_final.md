@@ -92,7 +92,8 @@ Este Processo Mostra o sistema de login / cadastro solicitando o cartao de credi
 
 Este processo mostra com será o sistema de despacho de bagagens. / O despacho solicita o peso da bagagem.
 
-![image](https://user-images.githubusercontent.com/111388245/190035219-6f041651-1ecd-4388-bbd0-1f7446290492.png)
+![image](https://user-images.githubusercontent.com/111388245/191874009-da233ff1-e1f1-4e0a-a473-3516db70863c.png)
+
 
 
 ### 3.3.1 Processo 3–  Compra passagem
