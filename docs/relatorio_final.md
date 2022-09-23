@@ -72,7 +72,7 @@ Em nossa aplicação teremos as seguintes entidades envolvidas: Empresa de avia�
 
 ## 3.1. Análise da situação atual
 
-Hoje, a internet disponibiliza diversas opções de compras de passagens e pacotes de viagens. Existem diversos sites e plataformas que realizam vendas terceirizadas, onde as ofertas saem mais baratas, porém deviado a terceirização a segurança na compra é considerávelmente afetada.
+Hoje, a internet disponibiliza diversas opções de compras de passagens e pacotes de viagens. Existem diversos sites e plataformas que realizam vendas terceirizadas, onde as ofertas saem mais baratas, porém devido a terceirização a segurança na compra é consideravelmente afetada. Dessa forma, a equipe procurou por aplicações que já resolvem esses problemas e encontrou aplicativos semelhantes, mas que não possuem o mesmo processo, visto que muitos não analisam o preço das passagens e hospedagens disponíveis, a fim de oferecer aos clientes as melhores opções.
 
 ## 3.2. Descrição Geral da proposta
 
