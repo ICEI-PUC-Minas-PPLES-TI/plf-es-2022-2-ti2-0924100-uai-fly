@@ -53,7 +53,7 @@ Notamos que o problema está na dificuldade de encontrar pacotes de viagens com 
         1.3.1 Objetivos específicos
         
 Nosso objetivo é agrupar o valor de várias passagens e apresentar ao usuário diversos opção de passagens, tanto para classe econômica quanto para a classe executiva, 
-filtrando os melhores preços e lugares de confiança para se hospedar.
+filtrando os melhores preços e lugares de confiança para se hospedar. Dessa forma, a empresa visa selecionra os melhores pacotes, garantindo segurança ao cliente e facilitando a vida do usuário.
 
    
     1.4 Justificativas
