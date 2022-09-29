@@ -177,8 +177,8 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Responder formulário | Botão | Avaliação disponível apenas após a conclusão da compra |  |
-|  Não responder formulário  |  Botão  |     |
+| Aceitar responder | Botão | Avaliação disponível apenas após a conclusão da compra |  |
+|  Não aceitar responder  |  Botão  |     |
 
 **Preencher formulário**
 
