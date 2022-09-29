@@ -171,20 +171,27 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
 |    |    |     |
 
-#### Processo 6 – NOME DO PROCESSO
+#### Processo 6 – PROCESSO DE AVALIAÇÃO DOS SERVIÇOS
 
-**Nome da atividade 1**
+**Acesso ao fomulário**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
+| Acessar fomulário | Seleção única | Avaliação disponível apenas após a conclusão da compra |  |
 |    |    |     |
 
-**Nome da atividade 2**
+**Preencher formulário**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
+| Responder perguntas | Múltipla escolha |  |  |
+|  Adicionar comentário/sugestão  |  Caixa de texto  | Opcional |
+
+**Enviar formulário**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Enviar | Seleção única | Todos os campos devem estar preenchidos|  |
 |    |    |     |
 
 ### 4.2. Tecnologias
