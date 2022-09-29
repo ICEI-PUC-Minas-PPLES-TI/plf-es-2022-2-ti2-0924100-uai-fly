@@ -177,48 +177,21 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Aceitar responder | Botão | Avaliação disponível apenas após a conclusão da compra |  |
-|  Não aceitar responder  |  Botão  |     |
+| Aceitar responder | Botão | Avaliação disponível apenas após a conclusão da compra | - |
+|  Não aceitar responder  |  Botão  |   -  |
 
 **Preencher formulário**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Responder perguntas | Múltipla escolha |  |  |
+| Responder perguntas | Múltipla escolha | - | - |
 |  Adicionar comentário/sugestão  |  Caixa de texto  | Opcional |
 
 **Enviar formulário**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Enviar | Botão | Todos os campos devem estar preenchidos|  |
-|    |    |     |
-
-#### Processo 6 – PROCESSO DE AVALIAÇÃO DOS SERVIÇOS
-
-**Responder fomulário**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| Aceitar responder | Botão | Avaliação disponível apenas após a conclusão da compra |  |
-|  Não aceitar responder  |  Botão  |     |
-
-**Preencher formulário**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| Como você avaliaria a qualidade do serviço? | Múltipla escolha |  |  |
-| Foi fácil usar o site? | Múltipla escolha |  |  |
-| Qual é a probabilidade de você comprar com a Uai-Fly novamente? | Múltipla escolha |  |  |
-| Qual é a probabilidade de você indicar nossos serviços? | Múltipla escolha |  |  |
-| O que tornaria este serviço melhor? (Adicionar comentário/sugestão) |  Caixa de texto  | Opcional |
-
-**Enviar formulário**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| Enviar | Botão | Todos os campos devem estar preenchidos|  |
-|    |    |     |
+| Enviar | Botão | Todos os campos devem estar preenchidos| - |
 
 ### 4.2. Tecnologias
 
