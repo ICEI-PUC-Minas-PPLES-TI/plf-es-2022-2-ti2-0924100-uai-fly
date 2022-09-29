@@ -185,7 +185,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Responder perguntas | Múltipla escolha | - | - |
-|  Adicionar comentário/sugestão  |  Caixa de texto  | Opcional |
+|  Adicionar comentário/sugestão  |  Caixa de texto  | Opcional | - |
 
 **Enviar formulário**
 
