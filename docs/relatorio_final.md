@@ -194,6 +194,32 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Enviar | Botão | Todos os campos devem estar preenchidos|  |
 |    |    |     |
 
+#### Processo 6 – PROCESSO DE AVALIAÇÃO DOS SERVIÇOS
+
+**Responder fomulário**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Aceitar responder | Botão | Avaliação disponível apenas após a conclusão da compra |  |
+|  Não aceitar responder  |  Botão  |     |
+
+**Preencher formulário**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Como você avaliaria a qualidade do serviço? | Múltipla escolha |  |  |
+| Foi fácil usar o site? | Múltipla escolha |  |  |
+| Qual é a probabilidade de você comprar com a Uai-Fly novamente? | Múltipla escolha |  |  |
+| Qual é a probabilidade de você indicar nossos serviços? | Múltipla escolha |  |  |
+| O que tornaria este serviço melhor? (Adicionar comentário/sugestão) |  Caixa de texto  | Opcional |
+
+**Enviar formulário**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Enviar | Botão | Todos os campos devem estar preenchidos|  |
+|    |    |     |
+
 ### 4.2. Tecnologias
 
 Descreva qual(is) tecnologias você vai usar para resolver o seu problema, ou seja implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas. Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
