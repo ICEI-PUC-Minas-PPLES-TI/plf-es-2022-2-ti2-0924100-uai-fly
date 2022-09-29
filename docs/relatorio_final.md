@@ -173,12 +173,12 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 #### Processo 6 – PROCESSO DE AVALIAÇÃO DOS SERVIÇOS
 
-**Acesso ao fomulário**
+**Responder fomulário**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Acessar fomulário | Seleção única | Avaliação disponível apenas após a conclusão da compra |  |
-|    |    |     |
+| Responder formulário | Botão | Avaliação disponível apenas após a conclusão da compra |  |
+|  Não responder formulário  |  Botão  |     |
 
 **Preencher formulário**
 
@@ -191,7 +191,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Enviar | Seleção única | Todos os campos devem estar preenchidos|  |
+| Enviar | Botão | Todos os campos devem estar preenchidos|  |
 |    |    |     |
 
 ### 4.2. Tecnologias
