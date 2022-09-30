@@ -146,9 +146,9 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Nome | Text |  |  |
 | Senha | Password | mínimo de 6 Caractere |   |
 | Email | Text | Padrao E-mail |   |
-| Idade | number |  |   |
+| Idade | number | maximo 3 caractere |   |
 | Cpf | number | deve conter 11 Caractere |   |
-| Endereco | Text |  |   |
+| Endereco | Text | minimo 5 caractere |   |
 | InfoCartao_CVV | Number | mínimo 3 Caractere |   |
 | InfoCartao_Numero | Number | no maximo 25 Caractere |   |
 | InfoCartao_DataValidade | Number | no maximo 6 Caractere |   |
