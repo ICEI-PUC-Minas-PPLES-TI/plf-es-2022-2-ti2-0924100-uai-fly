@@ -145,8 +145,16 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | --- | --- | --- | --- |
 | [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
 | ***Exemplo:***  |    |     |
-| login | Caixa de Texto | formato de e-mail |  |
-| senha | Caixa de Texto | mínimo de 8 caracteres |   |
+| Nome | Text |  |  |
+| Senha | Password | mínimo de 6 Caractere |   |
+| Email | Text | Padrao E-mail |   |
+| Idade | number |  |   |
+| Cpf | number | deve conter 11 Caractere |   |
+| Endereco | Text |  |   |
+| InfoCartao_CVV | Number | mínimo 3 Caractere |   |
+| InfoCartao_Numero | Number | no maximo 25 Caractere |   |
+| InfoCartao_DataValidade | Number | no maximo 6 Caractere |   |
+| InfoCartaoNome | Text | mínimo de 4 Caractere |   |
 
 **Nome da atividade 2**
 
