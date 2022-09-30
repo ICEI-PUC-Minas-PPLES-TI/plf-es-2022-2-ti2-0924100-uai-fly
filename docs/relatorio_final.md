@@ -137,7 +137,7 @@ Este processo mostra como será realizado o processo de avaliação dos serviço
 
 Descrever aqui cada uma das propriedades das atividades de cada um dos processos. Devem estar relacionadas com o modelo de processo apresentado anteriormente.
 
-#### Processo 1 – NOME DO PROCESSO
+#### Processo 1 – Processo Login/Cadastro
 
 **Nome da atividade 1**
 
