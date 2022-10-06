@@ -110,8 +110,9 @@ Este processo mostra como será o processo da compra de passagens.
 ### 3.3.1 Processo 4–  Check-in
 
 Este processo mostra como será o processo de Check-in.
-![diagram_3](https://user-images.githubusercontent.com/104275211/191884013-db623e5b-b907-452f-92a5-da50e424b7a6.png)
 
+
+![diagram_4](https://user-images.githubusercontent.com/104275211/194416056-46fa0ad5-404b-49a1-98cd-cb9183834f1c.png)
 
 
 
