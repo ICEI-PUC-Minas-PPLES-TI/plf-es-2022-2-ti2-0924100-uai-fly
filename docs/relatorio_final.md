@@ -228,7 +228,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 #### Processo 6 – PROCESSO DE AVALIAÇÃO DOS SERVIÇOS
 
-***Responder fomulário**
+**Responder fomulário**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
