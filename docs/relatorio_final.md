@@ -183,9 +183,12 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 **Nome da atividade 1**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
+| Local de partida | Caixa de texto | --- | --- |
+|  Data de partida  |  Número  | --- |
+| Local de destino | Caixa de texto | --- | --- |
+| Selecionar passagem | Múltipla escolha | --- | --- |
+| Opção de pagamento | Seleção única | --- | --- |
+
 
 **Nome da atividade 2**
 
