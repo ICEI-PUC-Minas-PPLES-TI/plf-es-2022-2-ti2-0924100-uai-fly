@@ -194,7 +194,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
 |    |    |     |
 
-#### Processo 4 – NOME DO PROCESSO
+#### Processo 4 –  PROCESSO DE CHECK-IN
 
 **Nome da atividade 1**
 
