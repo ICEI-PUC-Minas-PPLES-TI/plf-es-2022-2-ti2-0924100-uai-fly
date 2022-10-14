@@ -168,9 +168,9 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Peso | Number |  |  |
+| Nome | Text |  |  |
 | Dimensão | Number | máximo de 4 Caractere |   |
-| Nome | Text |  |   |
+| Peso | Number |  |   |
 | Estado | Text | maximo 2 caractere |   |
 | Cidade | Text | deve conter 11 Caractere |   |
 
