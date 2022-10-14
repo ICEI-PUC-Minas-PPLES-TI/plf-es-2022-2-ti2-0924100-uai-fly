@@ -186,7 +186,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Local de partida | Caixa de texto | --- | --- |
 |  Data de partida  |  Número  | --- |
 | Local de destino | Caixa de texto | --- | --- |
-| Selecionar passagem | Múltipla escolha | --- | --- |
+| Selecionar passagem | Selecionar passagem | --- | --- |
 | Opção de pagamento | Seleção única | --- | --- |
 
 
@@ -194,8 +194,11 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
+| Local de partida | Caixa de texto |  |  |
+|  Data de partida  |  Número  |     |
+| Local de destino | Caixa de texto |  |  |
+| Selecionar passagem | Selecionar passagem |  |  |
+| Opção de pagamento | Seleção única |  |  |
 
 #### Processo 4 –  PROCESSO DE CHECK-IN
 
