@@ -178,18 +178,14 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
 |    |    |     |
 
-#### Processo 3 – Compra de passagem
+#### Processo 3 – NOME DO PROCESSO
 
 **Nome da atividade 1**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Local Partida | Caixa de texto | |  |
-|  Data Partida  |  Número  |     |
-| Local Destino | Caixa de texto | --- | --- |
-| Selecionar passagem | Múltipla escolha | --- | --- |
-| Opção de pagamento | Seleção única | --- | --- |
-
+| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
+|    |    |     |
 
 **Nome da atividade 2**
 
@@ -204,8 +200,12 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
+| Nome | Text |  |  |
+| Email | Text | Padrao E-mail |   |
+| Cpf | number | deve conter 11 Caractere |   |
+| Info_Numerodecheck-in | Number | no maximo 25 Caractere |   |
+
+
 
 **Nome da atividade 2**
 
