@@ -198,14 +198,22 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 #### Processo 5 – Cancelamento de passagens
 
-**Cancelamento de passagens**
+**Pedido cancelamento**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Nome | Texto |  |  |
 | Data da compra | Número | Padrão data |  |
 | Passagem | Múltipla escolha |  |  |
+| Motivo   |  Texto   |     |
 | Confirmaçao de dados   |  Seleçao única   |     |
+
+**Enviar pedido**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Enviar | Botão | Todos os campos devem estar preenchidos| - |
+|    |    |     |
 
 
 #### Processo 6 – PROCESSO DE AVALIAÇÃO DOS SERVIÇOS
