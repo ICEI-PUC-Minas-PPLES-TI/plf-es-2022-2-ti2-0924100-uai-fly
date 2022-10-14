@@ -180,17 +180,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 #### Processo 3 – Compra de passagem
 
-**Nome da atividade 1**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| Local de partida | Caixa de texto | --- | --- |
-|  Data de partida  |  Número  | --- |
-| Local de destino | Caixa de texto | --- | --- |
-| Selecionar passagem | Selecionar passagem | --- | --- |
-| Opção de pagamento | Seleção única | --- | --- |
-
-
-**Nome da atividade 2**
+**Compra da passagem**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
