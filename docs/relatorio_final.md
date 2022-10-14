@@ -165,16 +165,10 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Nome | Text | ---  | --- |
 | Dimensão | Number | máximo de 4 Caractere | --- |
 | Peso | Number | máximo de 2 Caractere | --- |
-| Estado | Text | maximo 2 caractere | --- |
+| Estado | Text | máximo 2 Caractere | --- |
 | Cidade | Text | --- | --- |
 
 
-**Nome da atividade 2**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
 
 #### Processo 3 – Compra de passagem
 
@@ -183,7 +177,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Local de partida | Caixa de texto |  |  |
-|  Data de partida  |  Número  |     |
+|  Data de partida  |  Número  | padrão data |
 | Local de destino | Caixa de texto |  |  |
 | Selecionar passagem | Selecionar passagem |  |  |
 | Opção de pagamento | Seleção única |  |  |
@@ -201,12 +195,6 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 
 
-**Nome da atividade 2**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
 
 #### Processo 5 – NOME DO PROCESSO
 
