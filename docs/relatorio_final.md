@@ -155,12 +155,6 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | InfoCartao_DataValidade | Number | no maximo 6 Caractere |   |
 | InfoCartaoNome | Text | mínimo de 4 Caractere |   |
 
-**Nome da atividade 2**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
 
 #### Processo 2 – NOME DO PROCESSO
 
@@ -168,11 +162,11 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Nome | Text |  |  |
-| Dimensão | Number | máximo de 4 Caractere |   |
-| Peso | Number |  |   |
-| Estado | Text | maximo 2 caractere |   |
-| Cidade | Text | deve conter 11 Caractere |   |
+| Nome | Text | ---  | --- |
+| Dimensão | Number | máximo de 4 Caractere | --- |
+| Peso | Number | máximo de 2 Caractere | --- |
+| Estado | Text | maximo 2 caractere | --- |
+| Cidade | Text | --- | --- |
 
 
 **Nome da atividade 2**
