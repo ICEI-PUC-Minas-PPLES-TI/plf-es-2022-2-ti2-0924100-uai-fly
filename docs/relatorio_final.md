@@ -178,14 +178,18 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
 |    |    |     |
 
-#### Processo 3 – NOME DO PROCESSO
+#### Processo 3 – Compra de passagem
 
 **Nome da atividade 1**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
+| Local Partida | Caixa de texto | |  |
+|  Data Partida  |  Número  |     |
+| Local Destino | Caixa de texto | --- | --- |
+| Selecionar passagem | Múltipla escolha | --- | --- |
+| Opção de pagamento | Seleção única | --- | --- |
+
 
 **Nome da atividade 2**
 
