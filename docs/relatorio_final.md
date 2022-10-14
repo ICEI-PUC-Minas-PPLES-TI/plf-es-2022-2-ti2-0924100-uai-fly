@@ -196,21 +196,17 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 
 
-#### Processo 5 – NOME DO PROCESSO
+#### Processo 5 – Cancelamento de passagens
 
-**Nome da atividade 1**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
-
-**Nome da atividade 2**
+**Cancelamento de passagens**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
+| Nome | Texto |  |  |
+| Data da compra | Número | Padrão data |  |
+| Passagem | Múltipla escolha |  |  |
+| Confirmaçao de dados   |  Seleçao única   |     |
+
 
 #### Processo 6 – PROCESSO DE AVALIAÇÃO DOS SERVIÇOS
 
