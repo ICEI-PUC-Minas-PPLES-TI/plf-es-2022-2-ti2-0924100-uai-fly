@@ -272,6 +272,8 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 ## 7.Sistema desenvolvido
 
 Faça aqui uma breve descrição do software e coloque as principais telas com uma explicação de como usar cada uma.
+Tela inicial e de login: https://replit.com/@Beatrizde5/Pagina-inicial?v=1
+Tela de avaliação: https://replit.com/@MariaEChispimS/TIAP-AVALIACAO-DOS-SERVICOS-UAI-FLY?v=1
 
 ## 8. Conclusão
 
