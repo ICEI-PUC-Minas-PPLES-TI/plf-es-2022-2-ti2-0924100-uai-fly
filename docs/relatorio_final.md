@@ -243,7 +243,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 |    |    |     |
 
 ### 4.2. Tecnologias
-![unknown](https://user-images.githubusercontent.com/15385678/197085127-246ad3c3-8d61-4c61-9dc2-c0d559f1e277.png)
+As tecnologias que serão utilizadas são HTML, CSS, JavaScript, MySql, bootstrap, Visual Studio Code, GitHub, Java + SpringBoot para o desenvolvimento do projeto. Iremos projetar a interface mais intuitiva e simples para o usuario.
 
 
 ## 5. Modelo de dados
