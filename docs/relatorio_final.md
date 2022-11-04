@@ -19,6 +19,8 @@ Professores:
 
 **Cleiton Silva Tavares**
 
+**Cristiano Neves Rodrigues**
+
 **Felipe Augusto Lima Reis**
 
 **Hugo Bastos de Paula**
