@@ -5,19 +5,19 @@
    
 ## Integrantes
 
-* Henrique Santana Diniz
-* Vitor Fernandes
 * Beatriz de Oliveira
-* Matheus Pereira
+* Henrique Santana Diniz
 * Maria Eduarda Chrispim
+* Matheus Pereira
 * Pedro Afonso Maciel
+* Vitor FernandesPedro Afonso Maciel
 
 ## Professores
 
 * Cleiton Silva Tavares
-* Felipe Augusto Lima Reis	
+* Cristiano Neves Rodrigues
+* Felipe Augusto Lima Reis
 * Hugo Bastos de Paula
-
 
 ## Instruções de utilização
 
