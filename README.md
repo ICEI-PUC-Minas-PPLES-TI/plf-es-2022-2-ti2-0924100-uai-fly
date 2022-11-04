@@ -10,7 +10,7 @@
 * Maria Eduarda Chrispim
 * Matheus Pereira
 * Pedro Afonso Maciel
-* Vitor FernandesPedro Afonso Maciel
+* Vitor Fernandes
 
 ## Professores
 
