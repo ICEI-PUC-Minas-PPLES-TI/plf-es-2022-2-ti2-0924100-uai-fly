@@ -130,7 +130,7 @@ Este processo mostra como será o processo do cancelamento de passagens.
 Este processo mostra como será realizado o processo de avaliação dos serviços oferecidos pelas empresas aéreas e de hospedagem.
 
 
-![PROCESSO DE AVALIAÇÃO DOS SERVIÇOS I](https://user-images.githubusercontent.com/104326131/193142102-7b55b235-9b54-4380-aa6c-51def750d561.png)
+![PROCESSO DE AVALIAÇÃO DOS SERVIÇOS II](https://user-images.githubusercontent.com/104326131/199863313-5504aa04-290e-4c55-a20d-6ecee93da524.png)
 
 
 ## 4. Projeto da Solução
@@ -218,8 +218,6 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 
 #### Processo 6 – PROCESSO DE AVALIAÇÃO DOS SERVIÇOS
-
-https://replit.com/@MariaEChispimS/TIAP-AVALIACAO-DOS-SERVICOS-UAI-FLY?v=1
 
 **Responder fomulário**
 
