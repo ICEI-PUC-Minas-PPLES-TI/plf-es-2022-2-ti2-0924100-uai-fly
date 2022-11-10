@@ -1,1 +1,0 @@
-ALTER TABLE dados_voo add column (cartaoEmbarque Int);
