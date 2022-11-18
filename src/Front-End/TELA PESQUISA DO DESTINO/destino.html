@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Pesquisa</title>
+</head>
+
+<body> 
+  <div class="container"> 
+      <div class="form-image">
+          <img src="img/undraw_travel_booking_re_6umu.svg" alt="">
+      </div>
+      <div class="form"> 
+          <form action="#"> 
+              <div class="form-header">
+                  <div class="title">
+                      <h1>Escolha o seu destino e as datas</h1>
+                  </div>
+              </div>
+
+                  <!--DESTINO-->
+
+                  <form action="" class="pesquisa-form"> <!--tour-search é pesquisa-->
+
+                    <div class="input-wrapper">
+                      <label for="destino" class="input-label">Escolha o destino</label>
+        
+                      <input type="text" name="destino" id="destino" required placeholder="Destino"
+                        class="input-field">
+                    </div>
+
+                    <!--NÚMERO DE PESSOAS-->
+
+                    <div class="input-wrapper">
+                      <label for="pessoas" class="input-label">Quantidade de pessoas</label>
+        
+                      <input type="number" name="pessoas" id="pessoas" required placeholder="Nº de pessoas" class="input-field">
+                    </div>
+
+                    <!--CHECK IN-->
+
+                    <div class="input-wrapper">
+                      <label for="checkin" class="input-label">Data do Checkin</label>
+        
+                      <input type="date" name="checkin" id="checkin" required class="input-field">
+                    </div>
+        
+                    <div class="input-wrapper">
+                      <label for="checkout" class="input-label">Data do Checkout</label>
+        
+                      <input type="date" name="checkout" id="checkout" required class="input-field">
+                    </div>
+        
+                    <div class="pesquisar-button"> 
+                      <button><a href="#">Pesquisar</a> </button>
+                  </div>
+        
+                  </form>
+                
+      </div>
+  </div>
+</body>
+</html>
+            
