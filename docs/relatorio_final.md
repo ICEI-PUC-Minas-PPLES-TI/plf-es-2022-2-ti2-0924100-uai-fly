@@ -278,6 +278,8 @@ Tela inicial e de login: https://replit.com/@Beatrizde5/Pagina-inicial?v=1
 
 Tela de avaliação: https://replit.com/@MariaEChispimS/TIAP-AVALIACAO-DOS-SERVICOS-UAI-FLY?v=1
 
+Tela de pesquisa: https://replit.com/@MariaEChispimS/TIAP-PESQUISA?v=1
+
 ## 8. Conclusão
 
 Apresente aqui a conclusão do seu trabalho. Discussão dos resultados obtidos no trabalho, onde se verifica as observações pessoais de cada aluno. Poderá também apresentar sugestões de novas linhas de estudo.
