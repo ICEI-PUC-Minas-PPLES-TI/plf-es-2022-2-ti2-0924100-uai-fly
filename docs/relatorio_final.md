@@ -280,7 +280,7 @@ Tela de avaliação: https://replit.com/@MariaEChispimS/TIAP-AVALIACAO-DOS-SERVI
 
 Tela de pesquisa: https://replit.com/@MariaEChispimS/TIAP-PESQUISA?v=1
 
-Tela de compra de passagem:
+Tela de compra de passagem: https://replit.com/@Beatrizde5/FarawayWellinformedIntroductory#index.html
 
 ## 8. Conclusão
 
