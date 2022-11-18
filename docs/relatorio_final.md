@@ -282,7 +282,7 @@ Tela de pesquisa: https://replit.com/@MariaEChispimS/TIAP-PESQUISA?v=1
 
 Tela de compra de passagem: https://replit.com/@Beatrizde5/FarawayWellinformedIntroductory#index.html
 
-Tela de pagamento: 
+Tela de pagamento: https://replit.com/@Beatrizde5/carrinho#index.html
 
 ## 8. Conclusão
 
