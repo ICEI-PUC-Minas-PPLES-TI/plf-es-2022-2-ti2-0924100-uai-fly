@@ -41,7 +41,7 @@ _Nosso projeto tem como principal objetivo, auxiliar os clientes a encontrar as 
 ## 1. Introdução
 
     1.1 Contextualização
- Devido ao aumento do dólar, os preços de passagens aéreas subiram bastante, o que contribui para a diminuição de tráfego aéreo e perda no setor de turismo.  O aplicativo em desenvolvimento, vem para auxiliar as pessoas a comprarem pacotes de viagens e passagens aéreas avulsas com os melhores preços, assim ajudando as pessoas a fazer as melhores escolhas.
+ Devido ao aumento do dólar, os preços de passagens aéreas subiram bastante, o que contribui para a diminuição de tráfego aéreo e perda no setor de turismo.  O aplicativo em desenvolvimento, vem para auxiliar as pessoas a comprarem pacotes de viagens e passagens aéreas avulsas com os melhores preços, assim ajudando as pessoas a fazer as melhores escolhas. 
  
 
     1.2 Problema
