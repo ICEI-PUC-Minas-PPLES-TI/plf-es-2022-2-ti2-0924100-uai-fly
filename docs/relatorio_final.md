@@ -41,46 +41,44 @@ _Nosso projeto tem como principal objetivo, auxiliar os clientes a encontrar as 
 ## 1. Introdução
 
     1.1 Contextualização
- Devido ao aumento do dólar, os preços de passagens aéreas e hospedagens subiram bastante, o que contribui para a diminuição de tráfego aéreo e perda no setor de turismo.  O aplicativo em desenvolvimento, vem para auxiliar as pessoas a comprarem pacotes de viagens, passagens aéreas avulsas e hospedagem com os melhores preços, assim ajudando as pessoas nas melhores escolhas.
+ Devido ao aumento do dólar, os preços de passagens aéreas subiram bastante, o que contribui para a diminuição de tráfego aéreo e perda no setor de turismo.  O aplicativo em desenvolvimento, vem para auxiliar as pessoas a comprarem pacotes de viagens e passagens aéreas avulsas com os melhores preços, assim ajudando as pessoas a fazer as melhores escolhas.
  
 
     1.2 Problema
 
-Notamos que o problema está na dificuldade de encontrar pacotes de viagens com preços baixos e também a desconfiança de escolher um local de hospedagem.
+  Notamos que o problema da maioria das pessoas, está na dificuldade de encontrar pacotes e viagens com preços acessíveis e de confiabilidade. Escolher um local para passar as férias com os amigos ou familiares tem sido uma tarefa difícil atualmente, mesmo com o vasto número de sites de viagens pela internet. E nós viemos resolver esse problema.
 
     1.3 Objetivo geral
 
-  Nosso objetivo é agrupar o valor de várias passagens e apresentar ao usuário diversos opção de passagens, tanto para classe econômica quanto para a classe executiva, 
-filtrando os melhores preços e lugares de confiança para se hospedar.
+  Nosso objetivo é agrupar o valor de várias passagens e apresentar ao usuário diversas opções de viagens, filtrando os melhores preços e prezando sempre pela segurança do comprador e na facilidade de relizar seu voo através do nosso site. 
 
         1.3.1 Objetivos específicos
         
 I- Selecionar os melhores pacotes;
 II- Garantir segurança ao cliente;
-III- Facilitar a busca por hotéis e passagens aéreas de segurança e com valores acessíveis;
-IV- Analisar o preço das passagens e hospedagens disponíveis;
+III- Facilitar a busca por passagens aéreas de segurança e com valores acessíveis;
+IV- Analisar o preço das passagens disponíveis;
 V- Oferecer aos clientes as melhores opções.
 
    
     1.4 Justificativas
 
-Apesar de existirem diversas empresas que vendem passagens e hospadagens, poucas aplicações buscam solucionar problemas, como a dificuldade em encontrar pacotes de viagens com preços abixos, além de muitas apresentarem informações que não são seguras, por exemplo, oferecendo passagens de voos não disponíveis ou hospedagens que não existem. Dessa forma, o nosso aplicativo visa facilitar a busca por hotéis e passagens aéreas de segurança e com valores acessíveis.
+Apesar de existirem diversas empresas que vendem passagens, poucas aplicações buscam solucionar problemas, como a dificuldade em encontrar pacotes de viagens com preços acessíveis, além de muitas apresentarem informações que não são seguras. Um exemplo são empresas que oferecem voos não disponíveis. Dessa forma, o nosso aplicativo visa facilitar essa busca e a segurança do usuário.
 
 ## 2. Participantes do processo
 
-Em nossa aplicação teremos as seguintes entidades envolvidas: Empresa de aviação, na qual ofertará os melhores pacotes possíveis; Hotéis,pousadas, casas que irão fornecer um lugar de qualidade para serem alugados; Usuários que irão utilizar nosso aplicativo para essa intermediação.
+Em nossa aplicação teremos as seguintes entidades envolvidas: Empresa de aviação, na qual ofertará os melhores pacotes possíveis; Usuários que irão utilizar nosso aplicativo para essa intermediação; 
 
 ## 3. Modelagem do processo de negócio
 
 ## 3.1. Análise da situação atual
 
-Hoje, a internet disponibiliza diversas opções de compras de passagens e pacotes de viagens. Existem diversos sites e plataformas que realizam vendas terceirizadas, onde as ofertas saem mais baratas, porém devido a terceirização a segurança na compra é consideravelmente afetada. Dessa forma, a equipe procurou por aplicações que já resolvem esses problemas e encontrou aplicativos semelhantes, mas que não possuem o mesmo processo, visto que muitos não analisam o preço das passagens e hospedagens disponíveis, a fim de oferecer aos clientes as melhores opções.
+Hoje, a internet disponibiliza diversas opções de compras de passagens e pacotes de viagens. Existem diversos sites e plataformas que realizam vendas terceirizadas, onde as ofertas saem mais baratas, porém devido a terceirização a segurança na compra é consideravelmente afetada. Dessa forma, a equipe procurou por aplicações que já resolvem esses problemas e encontrou aplicativos semelhantes, mas que não possuem o mesmo processo, visto que muitos não analisam o preço das passagens, afim de oferecer aos clientes as melhores opções.
 
 ## 3.2. Descrição Geral da proposta
 
-A proposta do " Uai-Fly " consiste na criação de um sistema que auxilia o usuário encontrar
-as passagens aéreas, pacotes de viagem com o melhor custo e hospedagem confiáveis, assim
-passando um conforto para o usuário da aplicação.
+A proposta do "Uai-Fly " consiste na criação que nosso aplicativo visa principalmente, auxiliar o cliente utilizando facilidade e praticidade na hora de programar suas viajens de férias ou a trabalho, podendo visitar os lugares com os melhores preços, assim passando um conforto para o usuário da aplicação.
+ 
 
 
 ## 3.3. Modelagem dos Processos
