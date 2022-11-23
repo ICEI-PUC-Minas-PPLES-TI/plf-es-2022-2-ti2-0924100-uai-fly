@@ -67,7 +67,7 @@ Apesar de existirem diversas empresas que vendem passagens, poucas aplicações 
 
 ## 2. Participantes do processo
 
-Em nossa aplicação teremos as seguintes entidades envolvidas: Empresa de aviação, na qual ofertará os melhores pacotes possíveis; Usuários que irão utilizar nosso aplicativo para essa intermediação; 
+Em nossa aplicação teremos as seguintes entidades envolvidas: Empresa de aviação, na qual ofertará os melhores pacotes possíveis; Usuários que irão utilizar nosso aplicativo para a compra de passagens. 
 
 ## 3. Modelagem do processo de negócio
 
@@ -77,7 +77,7 @@ Hoje, a internet disponibiliza diversas opções de compras de passagens e pacot
 
 ## 3.2. Descrição Geral da proposta
 
-A proposta do "Uai-Fly " consiste na criação que nosso aplicativo visa principalmente, auxiliar o cliente utilizando facilidade e praticidade na hora de programar suas viajens de férias ou a trabalho, podendo visitar os lugares com os melhores preços, assim passando um conforto para o usuário da aplicação.
+A proposta do "Uai-Fly " consiste na criação que nosso aplicativo visa principalmente, auxiliar o cliente utilizando facilidade e praticidade na hora de programar suas viajens de férias ou a trabalho, podendo visitar os lugares com os melhores preços, assim passando uma confiabilidade maior para o usuário da aplicação.
  
 
 
