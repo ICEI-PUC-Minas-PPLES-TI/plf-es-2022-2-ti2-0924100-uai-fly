@@ -268,9 +268,12 @@ Usar o seguinte modelo:
 | Taxa De Cancelamento	 | Melhorar a prestação de serviço medindo a porcentagem e o motivo dos cancelamentos | Ver Numero de cancelamento | Numero De Cancelamento + Numero De Clientes	/ numeroCliente  | Tabela cliente | Aprendizado e Crescimento |
 | Taxa de usuários (mensais) | Avaliar quantitativamente a taxa de novos usuários cadastrados na plataforma por mês | Mede % de novos usuarios mensais | (Somatório de usuários cadastrados no mês / Somatório total de usuários)*100 | Tabela usuários	 | Análise do Crescimento da plataforma |
 | Taxa de passagens compradas (diarias) | Manter controle sobre o faturamento | Retorna o numero de compras por dia | Soma de compras gerado por dia  | Tabela Compra | Processo interno |
-| Taxa de passagens compradas (diarias) | Manter controle sobre o faturamento | Retorna o numero de compras por dia | Soma de compras gerado por dia  | Tabela Compra | Processo interno |
-| Taxa de passagens compradas (diarias) | Manter controle sobre o faturamento | Retorna o numero de compras por dia | Soma de compras gerado por dia  | Tabela Compra | Processo interno |
-| Taxa de passagens compradas (diarias) | Manter controle sobre o faturamento | Retorna o numero de compras por dia | Soma de compras gerado por dia  | Tabela Compra | Processo interno |
+
+| Número de bagagens extraviadas (semanais) | Levantar o numero de bagagens extraviadas de nossos clientes | Retorna o numero de bagagens extraviadas semanais  | Soma Das Bagagens extraviadas em 7 dias  | Tabela statusBagagem | Processo interno |
+
+| Valor Medio de passagens | Controle financeiro sobre o faturamento de cada venda	 | Retorna o valor do ticket medio | Faturamento ÷ Venda  | Tabela Compra | Processo interno |
+
+| Número de avaliações negativas(semanais) | Controlar e avaliar os feedbeck dos clientes | Retorna o numero de avaliacoes negativas por semana | (Numero De avaliações negativas + Numero De Cientes ) /7  | Tabela avaliações | Analisar qualidade de serviço |
 
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe **a ser proposto**
 
