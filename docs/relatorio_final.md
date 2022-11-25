@@ -285,6 +285,8 @@ Tela de pagamento: https://replit.com/@Beatrizde5/carrinho#index.html
 
 Tela de check-in e cancelamento: https://replit.com/@Beatrizde5/Check-in-e-cancelamento
 
+Todas as telas juntas: https://uai-fly.beatrizde5.repl.co/
+
 ## 8. Conclusão
 
 Apresente aqui a conclusão do seu trabalho. Discussão dos resultados obtidos no trabalho, onde se verifica as observações pessoais de cada aluno. Poderá também apresentar sugestões de novas linhas de estudo.
