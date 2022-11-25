@@ -285,6 +285,8 @@ Tela de pagamento: https://replit.com/@Beatrizde5/carrinho#index.html
 
 Tela de check-in e cancelamento: https://replit.com/@Beatrizde5/Check-in-e-cancelamento
 
+Tela de ajuda: https://ajuda.beatrizde5.repl.co/
+
 Todas as telas juntas: https://uai-fly.beatrizde5.repl.co/
 
 ## 8. Conclusão
