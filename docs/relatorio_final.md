@@ -266,8 +266,8 @@ Usar o seguinte modelo:
 | **Indicador** | **Objetivos** | **Descrição** | **Cálculo** | **Fonte dados** | **Perspectiva** |
 | --- | --- | --- | --- | --- | --- |
 | Taxa De Cancelamento	 | Avaliar quantitativamente as reclamações | Ver Numero de cancelamento | Numero De Cancelamento + Numero De Clientes	/ numeroCliente  | Tabela cliente | Aprendizado e Crescimento |
-| Taxa de Requisições abertas | Melhorar a prestação de serviços medindo a porcentagem de requisições | Mede % de requisições atendidas na semana | ![\frac{\sum{atendidas}}{\sum{requisicoes}}100](https://latex.codecogs.com/svg.latex?\frac{\sum{atendidas}}{\sum{requisicoes}}100) | Tabela solicitações | Processos internos |
-| Taxa de entrega de material | Manter controle sobre os materiais que estão sendo entregues | Mede % de material entregue dentro do mês |   | Tabela Pedidos | Clientes |
+| Taxa de usuários (mensais) | Avaliar quantitativamente a taxa de novos usuários cadastrados na plataforma por mês | Mede % de novos usuarios mensais | (Somatório de usuários cadastrados no mês / Somatório total de usuários)*100 | Tabela usuários	 | Análise do Crescimento da plataforma |
+| Taxa de passagens compradas (diarias) | Manter controle sobre o faturamento | Retorna o numero de compras por dia | Soma de compras gerado por dia  | Tabela Compra | Processo interno |
 
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe **a ser proposto**
 
