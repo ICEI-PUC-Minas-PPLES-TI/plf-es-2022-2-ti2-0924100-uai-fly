@@ -1,6 +1,6 @@
 # UAI-Fly
 
-   Nosso projeto tem como principal objetivo auxiliar os clientes a encontrar as passagens e pacotes de viagem com o melhor custo benefício. A UAI-Fly possui os melhores valores de passagens aéreas e pacotes de viajem de mercado, nosso trabalho é agrupar o valor de várias passagens e apresentar ao nosso cliente diversos tipos de voos, tanto para classe econômica quanto para a classe executiva, filtrando os melhores preços de acordo com a data de ida e de volta do passageiro.
+   Nosso projeto tem como principal objetivo auxiliar os clientes a encontrar as passagens e pacotes de viagem com o melhor custo benefício, visto que a UAI-Fly possui os melhores valores de passagens aéreas e pacotes de viajem de mercado. Dessa forma, nosso trabalho é agrupar o valor de várias passagens e apresentar ao nosso cliente diversos tipos de voos, tanto para classe econômica quanto para a classe executiva, filtrando os melhores preços de acordo com a data de ida e de volta do passageiro.
    
 ## Integrantes
 
