@@ -290,6 +290,8 @@ Tela de check-in e cancelamento: https://replit.com/@Beatrizde5/Check-in-e-cance
 
 Tela de ajuda: https://ajuda.beatrizde5.repl.co/
 
+Barra de pesquisa: https://replit.com/@vifersouza/BarraPesquisaDEMO#index.html
+
 Todas as telas juntas: https://uai-fly.beatrizde5.repl.co/
 
 ## 8. Conclusão
