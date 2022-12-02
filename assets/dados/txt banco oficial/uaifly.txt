@@ -1,0 +1,62 @@
+CREATE TABLE `uaifly`.`cliente` (
+  `cpf` INT NOT NULL,
+  `nome` VARCHAR(45) NULL,
+  `email` VARCHAR(45) NULL,
+  `senha` VARCHAR(45) NULL,
+  `telefone` VARCHAR(45) NULL,
+  PRIMARY KEY (`cpf`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_unicode_ci;
+
+CREATE TABLE `uaifly`.`compra` (
+  `cpf` INT NOT NULL,
+  `valor` INT NULL,
+  `cartao_de_embarque` VARCHAR(45) NULL,
+  PRIMARY KEY (`cpf`),
+  CONSTRAINT `cpf_compra`
+    FOREIGN KEY (`cpf`)
+    REFERENCES `uaifly`.`cliente` (`cpf`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION);
+
+CREATE TABLE `uaifly`.`voo` (
+  `cpf` INT NOT NULL,
+  `horario_partida` VARCHAR(45) NULL,
+  `horario_chegada` VARCHAR(45) NULL,
+  `local_partida` VARCHAR(45) NULL,
+  `local_chegada` VARCHAR(45) NULL,
+  `companhia_aerea` VARCHAR(45) NULL,
+  `numero_voo` INT NULL,
+  `assento` VARCHAR(45) NULL,
+  PRIMARY KEY (`cpf`),
+  CONSTRAINT `cpf_voo`
+    FOREIGN KEY (`cpf`)
+    REFERENCES `uaifly`.`compra` (`cpf`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION);
+
+CREATE TABLE `uaifly`.`bagagem` (
+  `cpf` INT NOT NULL,
+  `nome` VARCHAR(45) NULL,
+  `quantidade` INT NULL,
+  PRIMARY KEY (`cpf`),
+  CONSTRAINT `cpf_bagagem`
+    FOREIGN KEY (`cpf`)
+    REFERENCES `uaifly`.`cliente` (`cpf`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION);
+
+CREATE TABLE `uaifly`.`avaliacoes` (
+  `cpf` INT NOT NULL,
+  `nota` INT NULL,
+  `comentario` VARCHAR(45) NULL,
+  PRIMARY KEY (`cpf`),
+  CONSTRAINT `cpf_avaliacoes`
+    FOREIGN KEY (`cpf`)
+    REFERENCES `uaifly`.`cliente` (`cpf`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_unicode_ci;
