@@ -45,13 +45,13 @@ function limpar(){
 }
 
 
-formulario.addEventListener('submit', function(event){
+/*formulario.addEventListener('submit', function(event){
 
     event.preventDefault();
     
 cadastrar();
 limpar();
-    });
+    });*/
 
 
 const sign_in_btn = document.querySelector("#sign-in-btn");
