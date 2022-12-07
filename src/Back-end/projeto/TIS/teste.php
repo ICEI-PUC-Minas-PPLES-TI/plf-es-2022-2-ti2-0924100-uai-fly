@@ -1,18 +1,9 @@
 <?php
-    if(isset($_POST['submit']))
-    {
-        include_once('config.php');
 
-        $nome = $_POST['nome'];
-        $telefone = $_POST['telefone'];
-        $email = $_POST['email'];
-        $senha = $_POST['senha'];
+    session_start();
+    print_r($_SESSION);
 
-        $result = mysqli_query($conexao, "INSERT INTO cliente(nome) VALUES('$nome')");
-
-    }
 ?>
-
 
         <form  id = "form" action="teste.php" method="POST" class="sign-up-form">
             <h2 class="title">Cadastre-se</h2>
