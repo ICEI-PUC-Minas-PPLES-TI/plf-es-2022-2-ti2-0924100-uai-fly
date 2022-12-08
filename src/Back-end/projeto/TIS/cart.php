@@ -1,5 +1,5 @@
 <?php
-
+  session_start();
     if(isset($_POST['submit']))
     {
         include_once('config.php');
@@ -7,18 +7,16 @@
         $numero = $_POST['numero'];
         $data_validade = $_POST['data_validade'];
         $cvv = $_POST['cvv'];
+        $cpf = $_SESSION['cpf'];
 
-        $cpf = "SELECT * FROM cliente WHERE email = '$email' and senha = '$senha'";
+        $result = mysqli_query($conexao, "INSERT INTO cartao(cpf,numero,data_validade,cvv) VALUES('$cpf','$numero','$data_validade','$cvv')");
 
-        $result = mysqli_query($conexao, "INSERT INTO cartao(cpf,numero,data_validade,cvv) VALUES('$cpf','$data_validade','$cvv')");
-
-        /*printf("Errormessage: %s\n", $conexao->error);*/
+        //printf("Errormessage: %s\n", $conexao->error);
     } 
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -88,7 +86,7 @@
 
                 <div class="input-flex">
 
-                  <input type="number" name="data_validade" id="data_validade" placeholder="31/12"
+                  <input type="text" name="data_validade" id="data_validade" placeholder="31/12"
                     class="input-default">
                 </div>
               </div>

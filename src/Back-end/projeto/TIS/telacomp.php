@@ -81,7 +81,7 @@
           <span class="contact-time">Seg - Sex: 9:00 - 18:00</span>
         </div>
 
-        <a href="cart.html" class="btn" aria-labelledby="aria-label-txt">
+        <a href="cart.php" class="btn" aria-labelledby="aria-label-txt">
           <ion-icon name="cart-outline"></ion-icon>
 
           <span id="aria-label-txt">Carrinho</span>
