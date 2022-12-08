@@ -8,10 +8,15 @@
         $senha = $_POST['senha'];
 
         $sql = "SELECT * FROM cliente WHERE email = '$email' and senha = '$senha'";
-
         $result = $conexao->query($sql);
 
+        $consulta = "SELECT cpf FROM cliente WHERE email = '$email' and senha = '$senha'";
+        $con = $conexao->query($consulta) or die($mysqli->error);
+        $dado = $con->fetch_array();             
+        $cpf = $dado['cpf'];
+
         //print_r($sql);
+        //print_r('  ///  ');
         //print_r($result);
 
         if(mysqli_num_rows($result) < 1){
@@ -23,6 +28,7 @@
         else{
             $_SESSION['email'] = $email;
             $_SESSION['senha'] = $senha;
+            $_SESSION['cpf'] = $cpf;
             header('Location: telacomp.php');
         }
     }
