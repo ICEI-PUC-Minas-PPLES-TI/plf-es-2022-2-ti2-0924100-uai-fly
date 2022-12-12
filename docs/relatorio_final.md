@@ -245,7 +245,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 |    |    |     |
 
 ### 4.2. Tecnologias
-As tecnologias que serão utilizadas são HTML, CSS, JavaScript, MySql, bootstrap, Visual Studio Code, GitHub e Node para o desenvolvimento do projeto. Iremos projetar a interface mais intuitiva e simples para o usuario.
+As tecnologias que serão utilizadas são HTML, CSS, JavaScript, MySql, PHP, XAMPP, bootstrap, Visual Studio Code e GitHub para o desenvolvimento do projeto. Iremos projetar a interface mais intuitiva e simples para o usuario.
 
 
 ## 5. Modelo de dados
