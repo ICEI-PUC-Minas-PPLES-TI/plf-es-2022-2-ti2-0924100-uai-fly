@@ -1,3 +1,5 @@
+create database banco_uaifly;
+
 CREATE TABLE `banco_uaifly`.`cliente` (
   `cpf` VARCHAR(45) NOT NULL,
   `nome` VARCHAR(45) NULL,
