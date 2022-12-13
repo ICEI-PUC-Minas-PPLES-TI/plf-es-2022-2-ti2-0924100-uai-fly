@@ -20,7 +20,7 @@ DEFAULT CHARACTER SET = utf8mb4
 COLLATE = utf8mb4_unicode_ci;
 
 CREATE TABLE `banco_uaifly`.`voo` (
-  `cod_embarque` INT NOT NULL,
+  `cod_embarque` INT NOT NULL AUTO_INCREMENT,
   `cpf` VARCHAR(45) NOT NULL,
   `hoario_chegada` VARCHAR(45) NULL,
   `horario_partida` VARCHAR(45) NULL,
