@@ -1,7 +1,8 @@
 # Lista dos processos de negócio do sistema
 
-* login.bpmn - Processo de login.
-* agendar.bpmn - Processo de agendamento.
-* entregar.bpmn - Processo de entrega.
-
-
+* processoLoginCadastro.bpmn - Processo de login/cadastro.
+* compraPassagem.bpmn - Processo de compra da passagem.
+* bagagem bpmn.bpmn - Processo de cadastro da bagagem.
+* ProcessoAvaliacaoServicos.bpmn - Processo de avaliacao do site.
+* Check-in.bpmn - Processo de Check-in.
+* CancelamemtoPassagem.bpmn - Processo de cancelamento da passagem.
