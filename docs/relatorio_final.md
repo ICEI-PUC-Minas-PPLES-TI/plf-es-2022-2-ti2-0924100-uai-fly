@@ -71,7 +71,7 @@ Apesar de existirem diversas empresas que vendem passagens, poucas aplicações 
 
 ## 2. Participantes do processo
 
-Em nossa aplicação teremos as seguintes entidades envolvidas: Empresa de aviação, na qual ofertará os melhores pacotes possíveis; Usuários que irão utilizar nosso aplicativo para a compra de passagens. 
+Em nossa aplicação temos as seguintes entidades envolvidas: as empresa de aviação, nas quais ofertarão os melhores pacotes possíveis, e os usuários, que utilizarão o aplicativo para a compra de passagens. 
 
 ![Mapa de Stakeholders UaiFly](https://user-images.githubusercontent.com/104326131/207716812-c3a43469-b2e2-415b-942c-713863327038.jpeg)
 
