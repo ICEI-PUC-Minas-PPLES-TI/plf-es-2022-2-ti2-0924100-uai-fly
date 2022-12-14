@@ -170,11 +170,11 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Nome | Text | ---  | --- |
-| Dimensão | Number | máximo de 4 Caractere | --- |
-| Peso | Number | máximo de 2 Caractere | --- |
-| Estado | Text | máximo 2 Caractere | --- |
-| Cidade | Text | --- | --- |
+| Nome | Text | -  | - |
+| Dimensão | Number | máximo de 4 Caractere | - |
+| Peso | Number | máximo de 2 Caractere | - |
+| Estado | Text | máximo 2 Caractere | - |
+| Cidade | Text | - | - |
 
 
 
@@ -185,7 +185,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Local de partida | Caixa de texto | - | - |
-|  Data de partida  |  Número  | padrão data |
+|  Data de partida  |  Número  | padrão data | - |
 | Local de destino | Caixa de texto | - | - |
 | Selecionar passagem | Selecionar passagem | - | - |
 | Opção de pagamento | Seleção única | - | - |
@@ -213,8 +213,8 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Nome | Texto | - | - |
 | Data da compra | Número | Padrão data | - |
 | Passagem | Múltipla escolha | - | - |
-| Motivo   |  Texto   | - |
-| Confirmaçao de dados   |  Seleçao única   | - |
+| Motivo   |  Texto   | - | - |
+| Confirmaçao de dados   |  Seleçao única   | - | - |
 
 **Enviar pedido**
 
