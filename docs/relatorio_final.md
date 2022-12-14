@@ -250,35 +250,6 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Enviar | Botão | Todos os campos devem estar preenchidos| - |
 |    |    |     |
 
-#### Processo 1 – PROCESSO LOGIN/CADASTRO
-
-**Login**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| Nome | Text | - | - |
-| Senha | Password | mínimo de 6 Caractere | - |
-
-**Cadastro**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| Nome | Text | - | - |
-| Email | Text | Padrao E-mail | - |
-| Senha | Password | mínimo de 6 Caractere | - |
-| Idade | number | maximo 3 caractere | - |
-| Cpf | number | deve conter 11 Caractere | - |
-| Endereco | Text | minimo 5 caractere | - |
-
-**Cadastro do cartão**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| InfoCartao_CVV | Number | mínimo 3 Caractere | - |
-| InfoCartao_Numero | Number | no maximo 25 Caractere | - |
-| InfoCartao_DataValidade | Number | no maximo 6 Caractere | - |
-| InfoCartaoNome | Text | mínimo de 4 Caractere | - |
-
 
 ### 4.2. Tecnologias
 As tecnologias que serão utilizadas são HTML, CSS, JavaScript, MySql, PHP, XAMPP, bootstrap, Visual Studio Code e GitHub para o desenvolvimento do projeto. Iremos projetar a interface mais intuitiva e simples para o usuario.
