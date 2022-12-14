@@ -55,9 +55,13 @@ Nosso projeto tem como principal objetivo, auxiliar os clientes a encontrar as p
         1.3.1 Objetivos específicos
         
 I- Selecionar os melhores pacotes;
+
 II- Garantir segurança ao cliente;
+
 III- Facilitar a busca por passagens aéreas de segurança e com valores acessíveis;
+
 IV- Analisar o preço das passagens disponíveis;
+
 V- Oferecer aos clientes as melhores opções.
 
    
