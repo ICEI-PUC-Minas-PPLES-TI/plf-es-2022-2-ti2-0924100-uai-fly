@@ -146,7 +146,7 @@ Este processo mostra como será realizado o processo de avaliação dos serviço
 
 Descrever aqui cada uma das propriedades das atividades de cada um dos processos. Devem estar relacionadas com o modelo de processo apresentado anteriormente.
 
-#### Processo 1 – Processo Login/Cadastro
+#### Processo 1 – PROCESSO LOGIN/CADASTRO
 
 **Nome da atividade 1**
 
@@ -164,9 +164,9 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | InfoCartaoNome | Text | mínimo de 4 Caractere | - |
 
 
-#### Processo 2 – NOME DO PROCESSO
+#### Processo 2 – PROCESSO DE DESPACHO DE BAGAGEM
 
-**Nome da atividade 1**
+**Informações da bagagem**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
@@ -178,7 +178,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 
 
-#### Processo 3 – Compra de passagem
+#### Processo 3 – COMPRA DE PASSAGEM
 
 **Compra da passagem**
 
@@ -192,7 +192,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 #### Processo 4 –  PROCESSO DE CHECK-IN
 
-**Nome da atividade 1**
+**Check-in**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
@@ -204,7 +204,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 
 
-#### Processo 5 – Cancelamento de passagens
+#### Processo 5 – CANCELAMENTO DE PASSAGENS
 
 **Pedido cancelamento**
 
@@ -249,6 +249,36 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | --- | --- | --- | --- |
 | Enviar | Botão | Todos os campos devem estar preenchidos| - |
 |    |    |     |
+
+#### Processo 1 – PROCESSO LOGIN/CADASTRO
+
+**Login**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Nome | Text | - | - |
+| Senha | Password | mínimo de 6 Caractere | - |
+
+**Cadastro**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Nome | Text | - | - |
+| Email | Text | Padrao E-mail | - |
+| Senha | Password | mínimo de 6 Caractere | - |
+| Idade | number | maximo 3 caractere | - |
+| Cpf | number | deve conter 11 Caractere | - |
+| Endereco | Text | minimo 5 caractere | - |
+
+**Cadastro do cartão**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| InfoCartao_CVV | Number | mínimo 3 Caractere | - |
+| InfoCartao_Numero | Number | no maximo 25 Caractere | - |
+| InfoCartao_DataValidade | Number | no maximo 6 Caractere | - |
+| InfoCartaoNome | Text | mínimo de 4 Caractere | - |
+
 
 ### 4.2. Tecnologias
 As tecnologias que serão utilizadas são HTML, CSS, JavaScript, MySql, PHP, XAMPP, bootstrap, Visual Studio Code e GitHub para o desenvolvimento do projeto. Iremos projetar a interface mais intuitiva e simples para o usuario.
