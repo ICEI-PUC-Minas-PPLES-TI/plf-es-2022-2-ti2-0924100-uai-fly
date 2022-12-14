@@ -152,16 +152,16 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Nome | Text |  |  |
-| Senha | Password | mínimo de 6 Caractere |   |
-| Email | Text | Padrao E-mail |   |
-| Idade | number | maximo 3 caractere |   |
-| Cpf | number | deve conter 11 Caractere |   |
-| Endereco | Text | minimo 5 caractere |   |
-| InfoCartao_CVV | Number | mínimo 3 Caractere |   |
-| InfoCartao_Numero | Number | no maximo 25 Caractere |   |
-| InfoCartao_DataValidade | Number | no maximo 6 Caractere |   |
-| InfoCartaoNome | Text | mínimo de 4 Caractere |   |
+| Nome | Text | - | - |
+| Senha | Password | mínimo de 6 Caractere | - |
+| Email | Text | Padrao E-mail | - |
+| Idade | number | maximo 3 caractere | - |
+| Cpf | number | deve conter 11 Caractere | - |
+| Endereco | Text | minimo 5 caractere | - |
+| InfoCartao_CVV | Number | mínimo 3 Caractere | - |
+| InfoCartao_Numero | Number | no maximo 25 Caractere | - |
+| InfoCartao_DataValidade | Number | no maximo 6 Caractere | - |
+| InfoCartaoNome | Text | mínimo de 4 Caractere | - |
 
 
 #### Processo 2 – NOME DO PROCESSO
@@ -184,11 +184,11 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Local de partida | Caixa de texto |  |  |
+| Local de partida | Caixa de texto | - | - |
 |  Data de partida  |  Número  | padrão data |
-| Local de destino | Caixa de texto |  |  |
-| Selecionar passagem | Selecionar passagem |  |  |
-| Opção de pagamento | Seleção única |  |  |
+| Local de destino | Caixa de texto | - | - |
+| Selecionar passagem | Selecionar passagem | - | - |
+| Opção de pagamento | Seleção única | - | - |
 
 #### Processo 4 –  PROCESSO DE CHECK-IN
 
@@ -196,10 +196,10 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Nome | Text |  |  |
-| Email | Text | Padrao E-mail |   |
-| Cpf | number | deve conter 11 Caractere |   |
-| Info_Numerodecheck-in | Number | no maximo 25 Caractere |   |
+| Nome | Text | - | - |
+| Email | Text | Padrao E-mail | - |
+| Cpf | number | deve conter 11 Caractere | - |
+| Info_Numerodecheck-in | Number | no maximo 25 Caractere | - |
 
 
 
@@ -210,11 +210,11 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Nome | Texto |  |  |
-| Data da compra | Número | Padrão data |  |
-| Passagem | Múltipla escolha |  |  |
-| Motivo   |  Texto   |     |
-| Confirmaçao de dados   |  Seleçao única   |     |
+| Nome | Texto | - | - |
+| Data da compra | Número | Padrão data | - |
+| Passagem | Múltipla escolha | - | - |
+| Motivo   |  Texto   | - |
+| Confirmaçao de dados   |  Seleçao única   | - |
 
 **Enviar pedido**
 
