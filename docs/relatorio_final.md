@@ -69,6 +69,8 @@ Apesar de existirem diversas empresas que vendem passagens, poucas aplicações 
 
 Em nossa aplicação teremos as seguintes entidades envolvidas: Empresa de aviação, na qual ofertará os melhores pacotes possíveis; Usuários que irão utilizar nosso aplicativo para a compra de passagens. 
 
+![Stakeholder Mapping UaiFly](https://user-images.githubusercontent.com/104326131/207707340-dcbf16d4-3fbb-486a-a4b7-d71727879120.jpeg)
+
 ## 3. Modelagem do processo de negócio
 
 ## 3.1. Análise da situação atual
