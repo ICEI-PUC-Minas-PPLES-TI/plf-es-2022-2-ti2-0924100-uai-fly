@@ -339,7 +339,7 @@ Após a conclusão da compra ou do cancelamento das passagens aparecerá a tela 
 **TELA DE AJUDA**
 
 ![Tela de ajuda UaiFly](https://user-images.githubusercontent.com/104326131/207866362-d1629189-2e55-4830-83ff-fcbdacf878f5.jpeg)
-Espaço destinado ao esclarecimento de dúvidas durante o processo de compra.
+Espaço destinado ao esclarecimento de dúvidas durante o processo de compra ou cancelamento.
 
 Tela inicial e de login: https://replit.com/@Beatrizde5/Pagina-inicial?v=1
 
