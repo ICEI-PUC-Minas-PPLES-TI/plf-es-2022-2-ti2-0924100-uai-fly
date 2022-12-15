@@ -307,6 +307,39 @@ Por meio da tela inicial é possível acessar o login /cadastro e a página de p
 
 O usuário deverá preencher os dados cadastrais para que possa ter acesso às compras no site.
 
+**TELA DE LOGIN**
+
+![Tela de login UaiFly](https://user-images.githubusercontent.com/104326131/207866223-dcbebe03-158d-43c1-b08b-918e5efff7d7.jpeg)
+ O usuário deve inserir o email e senha cadastrados para entrar no site.
+
+**TELA DE COMPRA**
+
+![Tela de compra I UaiFly](https://user-images.githubusercontent.com/104326131/207866249-8a44c523-31cd-48a2-97b0-20f4e904dd61.jpeg)
+![Tela de compra II UaiFly](https://user-images.githubusercontent.com/104326131/207866267-6265aa53-ff1c-4b66-9079-b4b826b58f16.jpeg)
+Por meio da tela de compra é possível escolher o destino e as datas de ida e volta. Após a escolha, todas opções aparecerão e o usuário poderá adicionar ao carrinho a opção desejada.
+
+**TELA DE CHECK-IN**
+
+
+
+**TELA DE PAGAMENTO**
+
+![Tela de pagamento UaiFly](https://user-images.githubusercontent.com/104326131/207866314-6e124932-adf3-426c-bc55-902c1fe33944.jpeg)
+Nesta tela aparecem todos os pedidos realizados e o preço total, além dos detalhes do pagamento, nos quais serão inseridas informações do cartão. Após o preenchimento dos dados é possível concluir a compra.
+
+**TELA DE CANCELAMENTO**
+
+Com essa tela é possível cancelar as passagens já compradas pelo usuário.
+
+**TELA DE AVALIAÇÃO DOS SERVIÇOS**
+
+![Tela de avaliação UaiFly](https://user-images.githubusercontent.com/104326131/207866346-d60124d4-f90c-4001-8e0a-5a0ddb27bc51.jpeg)
+Após a conclusão da compra ou do cancelamento das passagens aparecerá a tela de formulário perguntando se o usuário deseja avaliar ou não os serviços, além de poder adicionar sugestões para a melhoria do site.
+
+**TELA DE AJUDA**
+
+![Tela de ajuda UaiFly](https://user-images.githubusercontent.com/104326131/207866362-d1629189-2e55-4830-83ff-fcbdacf878f5.jpeg)
+Espaço destinado ao esclarecimento de dúvidas durante o processo de compra.
 
 Tela inicial e de login: https://replit.com/@Beatrizde5/Pagina-inicial?v=1
 
