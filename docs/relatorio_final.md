@@ -46,7 +46,7 @@ Nosso projeto tem como principal objetivo, auxiliar os clientes a encontrar as p
  
     1.2 Problema
 
-  Notamos que o problema da maioria das pessoas, está na dificuldade de encontrar pacotes e viagens com preços acessíveis e de confiabilidade. Escolher um local para passar as férias com os amigos ou familiares tem sido uma tarefa difícil atualmente, mesmo com o vasto número de sites de viagens pela internet. Dessa forma, a Uai-Fly visa solucionar esse problema.
+  Notamos que o problema da maioria das pessoas, está na dificuldade de encontrar pacotes e viagens com preços acessíveis e de confiabilidade. Escolher um local para passar as férias com os amigos ou familiares tem sido uma tarefa difícil atualmente, mesmo com o vasto número de sites de viagens pela internet. Dessa forma, a UAI-Fly visa solucionar esse problema.
 
     1.3 Objetivo geral
 
@@ -83,7 +83,7 @@ Hoje, a internet disponibiliza diversas opções de compras de passagens e pacot
 
 ## 3.2. Descrição Geral da proposta
 
-A proposta do "Uai-Fly " consiste na criação de um aplicativo que visa, principalmente, auxiliar o cliente utilizando facilidade e praticidade na hora de programar suas viajens de férias ou a trabalho, podendo visitar os lugares com os melhores preços, assim passando uma confiabilidade maior para o usuário da aplicação.
+A proposta do UAI-Fly consiste na criação de um aplicativo que visa, principalmente, auxiliar o cliente utilizando facilidade e praticidade na hora de programar suas viajens de férias ou a trabalho, podendo visitar os lugares com os melhores preços, assim passando uma confiabilidade maior para o usuário da aplicação.
  
 
 ## 3.3. Modelagem dos Processos
@@ -250,7 +250,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | --- | --- | --- | --- |
 | Como você avaliaria a qualidade do serviço? | Múltipla escolha | - | - |
 | Foi fácil usar o site? | Múltipla escolha | - | - |
-| Qual é a probabilidade de você comprar com a Uai-Fly novamente? | Múltipla escolha | - | - |
+| Qual é a probabilidade de você comprar com a UAI-Fly novamente? | Múltipla escolha | - | - |
 | Qual é a probabilidade de você indicar nossos serviços? | Múltipla escolha | - | - |
 | O que tornaria este serviço melhor? (Adicionar comentário/sugestão) |  Caixa de texto  | Opcional | - |
 
@@ -292,7 +292,7 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## 7.Sistema desenvolvido
 
-Uai-Fly é um software de vendas de passagens aéreas que foi desenvolvido com o intuito de selecionar as melhores passagens e, funciona da seguinte forma:
+UAI-Fly é um software de vendas de passagens aéreas que foi desenvolvido com o intuito de selecionar as melhores passagens e, funciona da seguinte forma:
 
 **TELA INICIAL**
 
@@ -358,7 +358,7 @@ Todas as telas juntas: https://uai-fly.beatrizde5.repl.co/
 
 ## 8. Conclusão
 
-A Uai-Fly é um software de vendas de passagens aéreas que foi desenvolvido com o intuito de selecionar as melhores passagens para que o usuário poupe tempo e dinheiro na sua procura, garantindo uma compra confiável e segura.
+A UAI-Fly é um software de vendas de passagens aéreas que foi desenvolvido com o intuito de selecionar as melhores passagens para que o usuário poupe tempo e dinheiro na sua procura, garantindo uma compra confiável e segura.
 
 A elaboração do projeto iniciou-se com um debate sobre o problema que motivou a criação do sistema e, consequentemente, diversas maneiras de implementar soluções foram discutidas. Diante disso, observou-se a necessidade de um software que filtrasse os preços de passagens mais acessíveis que, por conseguinte, facilite a busca pelo serviço desejado de forma segura e confiável.
 
