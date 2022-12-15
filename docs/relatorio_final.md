@@ -315,7 +315,7 @@ Todas as telas juntas: https://uai-fly.beatrizde5.repl.co/
 
 A Uai-Fly é um software de vendas de passagens aéreas que foi desenvolvido com o intuito de selecionar as melhores passagens para que o usuário poupe tempo e dinheiro na sua procura, garantindo uma compra confiável e segura.
 
-A elaboração do projeto se iniciou com um debate sobre o problema que motivou a criação do sistema e, consequentemente, diversas maneiras de implementar soluções foram discutidas. Diante disso, observou-se a necessidade de um software que filtrasse os preços de passagens mais acessíveis que, por conseguinte, facilitasse a busca pelo serviço desejado de forma segura e confiável.
+A elaboração do projeto se iniciou com um debate sobre o problema que motivou a criação do sistema e, consequentemente, diversas maneiras de implementar soluções foram discutidas. Diante disso, observou-se a necessidade de um software que filtrasse os preços de passagens mais acessíveis que, por conseguinte, facilite a busca pelo serviço desejado de forma segura e confiável.
 
 Além disso, foi implementado no projeto a opções de realizar o check-in e de adicionar as dimensões da bagagem pelo site, fazendo com que o processo no aeroporto seja mais rápido, uma vez que tais ações não precisariam ser realizadas no local, e sim pelo site. Ademais, o software se dispõe de indicadores de desempenho, como os de taxa de passagens compradas, de média das avaliações no geral e de valor arrecadado, que são indispensáveis para que a empresa possa analisar os resultados e a eficiência dos serviços ofertados.
 
