@@ -152,7 +152,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Nome | Text | - | - |
-| Senha | Password | mínimo de 6 Caractere | - |
+| Senha | Password | Mínimo de 6 Caractere | - |
 
 **Cadastro**
 
