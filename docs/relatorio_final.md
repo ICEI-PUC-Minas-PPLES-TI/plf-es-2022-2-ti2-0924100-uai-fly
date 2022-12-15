@@ -148,19 +148,31 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 #### Processo 1 – PROCESSO LOGIN/CADASTRO
 
-**Nome da atividade 1**
+**Login**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Nome | Text | - | - |
 | Senha | Password | mínimo de 6 Caractere | - |
+
+**Cadastro**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Nome | Text | - | - |
 | Email | Text | Padrao E-mail | - |
-| Idade | number | maximo 3 caractere | - |
+| Senha | Password | mínimo de 6 Caractere | - |
+| Idade | number | máximo 3 caractere | - |
 | Cpf | number | deve conter 11 Caractere | - |
-| Endereco | Text | minimo 5 caractere | - |
+| Endereco | Text | mínimo 5 caractere | - |
+
+**Cadastro do cartão**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
 | InfoCartao_CVV | Number | mínimo 3 Caractere | - |
-| InfoCartao_Numero | Number | no maximo 25 Caractere | - |
-| InfoCartao_DataValidade | Number | no maximo 6 Caractere | - |
+| InfoCartao_Numero | Number | no máximo 25 Caractere | - |
+| InfoCartao_DataValidade | Number | no máximo 6 Caractere | - |
 | InfoCartaoNome | Text | mínimo de 4 Caractere | - |
 
 
