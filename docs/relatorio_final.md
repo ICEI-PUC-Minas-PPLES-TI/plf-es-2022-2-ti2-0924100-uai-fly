@@ -160,19 +160,19 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | --- | --- | --- | --- |
 | Nome | Text | - | - |
 | Email | Text | Padrao E-mail | - |
-| Senha | Password | mínimo de 6 Caractere | - |
-| Idade | number | máximo 3 caractere | - |
-| Cpf | number | deve conter 11 Caractere | - |
-| Endereco | Text | mínimo 5 caractere | - |
+| Senha | Password | Mínimo de 6 Caractere | - |
+| Idade | Number | Máximo 3 caractere | - |
+| Cpf | Number | Deve conter 11 Caractere | - |
+| Endereco | Text | Mínimo 5 caractere | - |
 
 **Cadastro do cartão**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| InfoCartao_CVV | Number | mínimo 3 Caractere | - |
-| InfoCartao_Numero | Number | no máximo 25 Caractere | - |
-| InfoCartao_DataValidade | Number | no máximo 6 Caractere | - |
-| InfoCartaoNome | Text | mínimo de 4 Caractere | - |
+| InfoCartao_CVV | Number | Mínimo 3 Caractere | - |
+| InfoCartao_Numero | Number | Máximo 25 Caractere | - |
+| InfoCartao_DataValidade | Number | Máximo 6 Caractere | - |
+| InfoCartaoNome | Text | Mínimo de 4 Caractere | - |
 
 
 #### Processo 2 – PROCESSO DE DESPACHO DE BAGAGEM
@@ -182,9 +182,9 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Nome | Text | -  | - |
-| Dimensão | Number | máximo de 4 Caractere | - |
-| Peso | Number | máximo de 2 Caractere | - |
-| Estado | Text | máximo 2 Caractere | - |
+| Dimensão | Number | Máximo de 4 Caractere | - |
+| Peso | Number | Máximo de 2 Caractere | - |
+| Estado | Text | Máximo 2 Caractere | - |
 | Cidade | Text | - | - |
 
 
@@ -196,7 +196,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Local de partida | Caixa de texto | - | - |
-|  Data de partida  |  Número  | padrão data | - |
+|  Data de partida  |  Número  | Padrão data | - |
 | Local de destino | Caixa de texto | - | - |
 | Selecionar passagem | Selecionar passagem | - | - |
 | Opção de pagamento | Seleção única | - | - |
@@ -209,8 +209,8 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | --- | --- | --- | --- |
 | Nome | Text | - | - |
 | Email | Text | Padrao E-mail | - |
-| Cpf | number | deve conter 11 Caractere | - |
-| Info_Numerodecheck-in | Number | no maximo 25 Caractere | - |
+| Cpf | Number | Deve conter 11 Caractere | - |
+| Info_Numerodecheck-in | Number | No maximo 25 Caractere | - |
 
 
 
