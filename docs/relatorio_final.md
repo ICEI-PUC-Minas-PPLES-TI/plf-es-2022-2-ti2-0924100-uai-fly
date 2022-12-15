@@ -301,6 +301,12 @@ Uai-Fly é um software de vendas de passagens aéreas que foi desenvolvido com o
 
 Por meio da tela inicial é possível acessar o login /cadastro e a página de pesquisa de passagens.
 
+**TELA DE CADASTRO**
+
+![Tela de cadastro UaiFly](https://user-images.githubusercontent.com/104326131/207865504-35dfe4cc-e10f-4d30-81af-5486520e0c97.jpeg)
+
+O usuário deverá preencher os dados cadastrais para que possa ter acesso às compras no site.
+
 
 Tela inicial e de login: https://replit.com/@Beatrizde5/Pagina-inicial?v=1
 
