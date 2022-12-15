@@ -46,7 +46,7 @@ Nosso projeto tem como principal objetivo, auxiliar os clientes a encontrar as p
  
     1.2 Problema
 
-  Notamos que o problema da maioria das pessoas, está na dificuldade de encontrar pacotes e viagens com preços acessíveis e de confiabilidade. Escolher um local para passar as férias com os amigos ou familiares tem sido uma tarefa difícil atualmente, mesmo com o vasto número de sites de viagens pela internet. E nós viemos resolver esse problema.
+  Notamos que o problema da maioria das pessoas, está na dificuldade de encontrar pacotes e viagens com preços acessíveis e de confiabilidade. Escolher um local para passar as férias com os amigos ou familiares tem sido uma tarefa difícil atualmente, mesmo com o vasto número de sites de viagens pela internet. Dessa forma, a Uai-Fly visa solucionar esse problema.
 
     1.3 Objetivo geral
 
