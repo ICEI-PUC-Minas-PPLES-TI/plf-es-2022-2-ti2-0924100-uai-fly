@@ -41,7 +41,8 @@ Nosso projeto tem como principal objetivo, auxiliar os clientes a encontrar as p
 ## 1. Introdução
 
     1.1 Contextualização
- Devido ao aumento do dólar, os preços de passagens aéreas subiram bastante, o que contribui para a diminuição de tráfego aéreo e perda no setor de turismo.  O aplicativo em desenvolvimento, vem para auxiliar as pessoas a comprarem pacotes de viagens e passagens aéreas avulsas com os melhores preços, assim ajudando as pessoas a fazer as melhores escolhas. 
+ 
+ Muitas pessoas, principalmente as que viajam de avião frequentemente, sabem que os preços das passagens aéreas variam bastante dependendo da companhia, do dia e hora escolhidos ou até mesmo devido a questões sazonais. Dessa forma, nota-se que o problema da maioria das pessoas, está na dificuldade de encontrar pacotes e viagens com preços acessíveis e de confiabilidade. Por isso, a UAI-Fly seleciona as melhores passagens aéreas para que o usuário poupe tempo e dinheiro na sua procura. Ademais, devido ao aumento do dólar, os preços de passagens aéreas subiram bastante, o que contribui para a diminuição de tráfego aéreo e perda no setor de turismo. Diante disso, a UAI-Fly seleciona as melhores passagens aéreas para que o usuário poupe tempo e dinheiro na sua procura.
  
 
     1.2 Problema
