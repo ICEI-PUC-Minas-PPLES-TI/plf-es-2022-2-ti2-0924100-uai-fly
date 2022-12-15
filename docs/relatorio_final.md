@@ -293,7 +293,7 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## 7.Sistema desenvolvido
 
-Uai-Fly é um software de vendas de passagens aéreas que foi desenvolvido com o intuito de selecionar as melhores passagens e funciona da seguinte forma:
+Uai-Fly é um software de vendas de passagens aéreas que foi desenvolvido com o intuito de selecionar as melhores passagens e, funciona da seguinte forma:
 
 **TELA INICIAL**
 
