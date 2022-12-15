@@ -293,7 +293,14 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## 7.Sistema desenvolvido
 
-Faça aqui uma breve descrição do software e coloque as principais telas com uma explicação de como usar cada uma.
+Uai-Fly é um software de vendas de passagens aéreas que foi desenvolvido com o intuito de selecionar as melhores passagens e funciona da seguinte forma:
+
+**TELA INICIAL**
+
+![Tela inicial UaiFly](https://user-images.githubusercontent.com/104326131/207865234-6513d0ed-acd9-47d2-8cbd-aa1c8ed2ab39.jpeg)
+
+Por meio da tela inicial é possível acessar o login /cadastro e a página de pesquisa de passagens.
+
 
 Tela inicial e de login: https://replit.com/@Beatrizde5/Pagina-inicial?v=1
 
