@@ -302,7 +302,7 @@ Por meio da tela inicial é possível acessar o login /cadastro e a página de p
 
 **TELA DE CADASTRO**
 
-![Tela de cadastro UaiFly](https://user-images.githubusercontent.com/104326131/207865504-35dfe4cc-e10f-4d30-81af-5486520e0c97.jpeg)
+![cadastroo](https://user-images.githubusercontent.com/76188108/207976794-328c8479-c04b-4f01-95f8-3b8b33b1d406.png)
 
 O usuário deverá preencher os dados cadastrais para que possa ter acesso às compras no site.
 
