@@ -42,9 +42,8 @@ Nosso projeto tem como principal objetivo, auxiliar os clientes a encontrar as p
 
     1.1 Contextualização
  
- Muitas pessoas, principalmente as que viajam de avião frequentemente, sabem que os preços das passagens aéreas variam bastante dependendo da companhia, do dia e hora escolhidos ou até mesmo devido a questões sazonais. Dessa forma, nota-se que o problema da maioria das pessoas está na dificuldade de encontrar pacotes e viagens com preços acessíveis e de confiabilidade. Por isso, a UAI-Fly seleciona as melhores passagens aéreas para que o usuário poupe tempo e dinheiro na sua procura. Ademais, devido ao aumento do dólar, os preços de passagens aéreas subiram bastante, o que contribui para a diminuição de tráfego aéreo e perda no setor de turismo. Diante disso, a UAI-Fly seleciona as melhores passagens aéreas para que o usuário poupe tempo e dinheiro na sua procura.
+ Muitas pessoas, principalmente as que viajam de avião frequentemente, sabem que os preços das passagens aéreas variam bastante dependendo da companhia, do dia e hora escolhidos ou até mesmo devido a questões sazonais. Dessa forma, nota-se que o problema da maioria das pessoas está na dificuldade de encontrar pacotes e viagens com preços acessíveis e de confiabilidade. Ademais, devido ao aumento do dólar, os preços de passagens aéreas subiram bastante, o que contribui para a diminuição de tráfego aéreo e perda no setor de turismo. Diante disso, a UAI-Fly seleciona as melhores passagens aéreas para que o usuário poupe tempo e dinheiro na sua procura.
  
-
     1.2 Problema
 
   Notamos que o problema da maioria das pessoas, está na dificuldade de encontrar pacotes e viagens com preços acessíveis e de confiabilidade. Escolher um local para passar as férias com os amigos ou familiares tem sido uma tarefa difícil atualmente, mesmo com o vasto número de sites de viagens pela internet. E nós viemos resolver esse problema.
