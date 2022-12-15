@@ -83,9 +83,8 @@ Hoje, a internet disponibiliza diversas opções de compras de passagens e pacot
 
 ## 3.2. Descrição Geral da proposta
 
-A proposta do "Uai-Fly " consiste na criação que nosso aplicativo visa principalmente, auxiliar o cliente utilizando facilidade e praticidade na hora de programar suas viajens de férias ou a trabalho, podendo visitar os lugares com os melhores preços, assim passando uma confiabilidade maior para o usuário da aplicação.
+A proposta do "Uai-Fly " consiste na criação de um aplicativo que visa, principalmente, auxiliar o cliente utilizando facilidade e praticidade na hora de programar suas viajens de férias ou a trabalho, podendo visitar os lugares com os melhores preços, assim passando uma confiabilidade maior para o usuário da aplicação.
  
-
 
 ## 3.3. Modelagem dos Processos
 
