@@ -290,7 +290,7 @@ Por meio da tela inicial é possível acessar o login /cadastro e a página de p
 
 **TELA DE CADASTRO**
 
-![cadastroo](https://user-images.githubusercontent.com/76188108/207976794-328c8479-c04b-4f01-95f8-3b8b33b1d406.png)
+![cadastro](https://user-images.githubusercontent.com/76188108/208054502-7546c072-9dc6-4edd-9f63-b0cf0b06eaae.png)
 
 O usuário deverá preencher os dados cadastrais para que possa ter acesso às compras no site.
 
