@@ -308,12 +308,11 @@ O usuário deverá preencher todos os dados cadastrais para que possa ter acesso
 
 O usuário deve inserir o local de partida  para que todas opções de cidades com voos disponíveis partindo do local desejado apareçam e, assim, poderá adicionar ao carrinho de compras a opção desejada.
 
-**TELA DE CHECK-IN E DE CANCELAMENTO**
+**TELA DE ESPACHO DE BAGAGENS**
 
-![Tela de check-in UaiFly](https://user-images.githubusercontent.com/104326131/208184830-7d4a651b-a249-4cc3-a46b-2091993c697c.jpeg)
-![Tela de cancelamento UaiFly](https://user-images.githubusercontent.com/104326131/208184843-912b1be7-ca68-4c7c-8bff-2f1f888e7605.jpeg)
+![Tela de despacho UaiFly](https://user-images.githubusercontent.com/104326131/208186868-1d693bf7-c45b-4da1-abc4-86dd25b4d3e7.jpeg)
 
-Com essa tela é possível cancelar as passagens já compradas pelo usuário e também realizar o check-in.
+Após selecionar as passagens desejadas, o usuário realizará o despacho de bagagens, em que são inseridas informações como a quantidade de bagagens e o nome que estão nelas. Caso não teha bagagens, o usuário vai para a próxima etapa.
 
 **TELA DE PAGAMENTO**
 
@@ -321,6 +320,13 @@ Com essa tela é possível cancelar as passagens já compradas pelo usuário e t
 ![Tela cartão de embarque UaiFly](https://user-images.githubusercontent.com/104326131/208186212-9e7c4be6-23f8-42cf-b500-b3b16edae924.jpeg)
 
 Nesta tela aparecem os detalhes do pagamento, nos quais serão inseridas informações do cartão. Após o preenchimento dos dados um cartão de embarque é gerado, confirmando os dados da compra.
+
+**TELA DE CHECK-IN E DE CANCELAMENTO**
+
+![Tela de check-in UaiFly](https://user-images.githubusercontent.com/104326131/208184830-7d4a651b-a249-4cc3-a46b-2091993c697c.jpeg)
+![Tela de cancelamento UaiFly](https://user-images.githubusercontent.com/104326131/208184843-912b1be7-ca68-4c7c-8bff-2f1f888e7605.jpeg)
+
+Com essa tela é possível cancelar as passagens já compradas pelo usuário e também realizar o check-in.
 
 **TELA DE AVALIAÇÃO DOS SERVIÇOS**
 
