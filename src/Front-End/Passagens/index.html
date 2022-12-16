@@ -1,132 +1,221 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="utf-8" />
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="images/favicon.png" />
+    <title>Passagens</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+  </head>
+  <body>
 
-    <title>UAI-Fly</title>
-    <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-
-    <!-- modelos de passagem na lista e no carrinho -->
-    <div class="models">
-
-        <!-- passagem na lista -->
-        <div class="passagem-item">
-            <a href="">
-                <div class="passagem-item--img"><img src="" /></div>
-                <div class="passagem-item--add">+</div>
-            </a>
-            <div class="passagem-item--price">R$ --</div>
-            <div class="passagem-item--name">--</div>
-            <div class="passagem-item--desc">--</div>
+    <div class="container">
+      <div class="product">
+        <div class="product-card">
+          <h2 class="name">Fernando de Noronha</h2>
+          <span class="price">R$990.00</span>
+          <a class="popup-btn">+</a>
+          <img src="images/noronha.jpg" class="product-img" alt="">
         </div>
-
-        <!-- passagem no carrinho -->
-        <div class="cart--item">
-            <img src="" />
-            <div class="cart--item-nome">--</div>
-            <div class="cart--item--qtarea">
-                <button class="cart--item-qtmenos">-</button>
-                <div class="cart--item--qt">1</div>
-                <button class="cart--item-qtmais">+</button>
+        <div class="popup-view">
+          <div class="popup-card">
+            <a><i class="fas fa-times close-btn"></i></a>
+            <div class="product-img">
+              <img src="images/noronha.jpg" alt="">
             </div>
+            <div class="info">
+              <h2>Noronha<br><span>Pernambuco</span></h2>
+              <p>Local De Partida: Escrever Aq <br> Local de Chegada: Noronha <br> Codigo Da Passagem: 7789<br> Empresa Aérea: Azul <br></p>
+              <span class="price">R$990.00</span>
+              <a href="#" class="add-cart-btn">Comprar</a>
+            </div>
+          </div>
         </div>
-
+      </div>
+            <div class="product">
+        <div class="product-card">
+          <h2 class="name">Curitiba</h2>
+          <span class="price">R$950.00</span>
+          <a class="popup-btn">+</a>
+          <img src="images/curitiba.jpg" class="product-img" alt="">
+        </div>
+        <div class="popup-view">
+          <div class="popup-card">
+            <a><i class="fas fa-times close-btn"></i></a>
+            <div class="product-img">
+              <img src="images/curitiba.jpg" alt="">
+            </div>
+            <div class="info">
+              <h2>Curitiba<br><span>Paraná</span></h2>
+              <p>Local De Partida: Escrever Aq <br> Local de Chegada: Curitiba <br> Número do Voo: 4401 <br> Empresa Aérea: Gol <br></p>
+              <span class="price">R$950.00</span>
+              <a href="#" class="add-cart-btn">Comprar</a>
+            </div>
+          </div>
+        </div>
+      </div>
+          <div class="product">
+        <div class="product-card">
+          <h2 class="name">Foz do Iguaçu</h2>
+          <span class="price">R$800.00</span>
+          <a class="popup-btn">+</a>
+          <img src="images/foz.jpg" class="product-img" alt="">
+        </div>
+        <div class="popup-view">
+          <div class="popup-card">
+            <a><i class="fas fa-times close-btn"></i></a>
+            <div class="product-img">
+              <img src="images/foz.jpg" alt="">
+            </div>
+            <div class="info">
+              <h2>Foz do Iguaçu<br><span>Paraná</span></h2>
+              <p>Local De Partida: Escrever Aq <br> Local de Chegada:: Foz Do Iguaçu <br> Número do Voo: 2213 <br> Empresa Aérea: TAM <br></p>
+              <span class="price">R$800.00</span>
+              <a href="#" class="add-cart-btn">Comprar</a>
+            </div>
+          </div>
+        </div>
+      </div>
+            <div class="product">
+        <div class="product-card">
+          <h2 class="name">Capitólio</h2>
+          <span class="price">R$500.00</span>
+          <a class="popup-btn">+</a>
+          <img src="images/capitolio.jpg" class="product-img" alt="">
+        </div>
+        <div class="popup-view">
+          <div class="popup-card">
+            <a><i class="fas fa-times close-btn"></i></a>
+            <div class="product-img">
+              <img src="images/capitolio.jpg" alt="">
+            </div>
+            <div class="info">
+              <h2>Capitólio<br><span>Minas Gerais</span></h2>
+              <p>Local De Partida: Escrever Aq <br>  Local de Chegada: Confins <br> Número do Voo: 2200 <br> Empresa Aérea: Azul <br></p>
+              <span class="price">R$500.00</span>
+              <a href="#" class="add-cart-btn">Comprar</a>
+            </div>
+          </div>
+        </div>
+      </div>
+           <div class="product">
+        <div class="product-card">
+          <h2 class="name">Raul Soares</h2>
+          <span class="price">R$900.00</span>
+          <a class="popup-btn">+</a>
+          <img src="images/raul.jpg" class="product-img" alt="">
+        </div>
+        <div class="popup-view">
+          <div class="popup-card">
+            <a><i class="fas fa-times close-btn"></i></a>
+            <div class="product-img">
+              <img src="images/raul.jpg" alt="">
+            </div>
+            <div class="info">
+              <h2>Raul Soares<br><span>Minas Gerais</span></h2>
+              <p>Local De Partida: Escrever Aq <br> Local de Chegada: Raul Soares<br> Número do Voo: 0021<br> Empresa Aérea: Gol <br</p>
+              <span class="price">R$900.00</span>
+              <a href="#" class="add-cart-btn">Comprar</a>
+            </div>
+          </div>
+        </div>
+      </div>
+            <div class="product">
+        <div class="product-card">
+          <h2 class="name">São Paulo</h2>
+          <span class="price">$620.00</span>
+          <a class="popup-btn">+</a>
+          <img src="images/sp.jpg" class="product-img" alt="">
+        </div>
+        <div class="popup-view">
+          <div class="popup-card">
+            <a><i class="fas fa-times close-btn"></i></a>
+            <div class="product-img">
+              <img src="images/sp.jpg" alt="">
+            </div>
+            <div class="info">
+              <h2>São Paulo<br><span>São Paulo</span></h2>
+              <p>Local De Partida: Escrever Aq <br> Local de Chegada: São Paulo <br> Número do Voo: 3132 <br> Empresa Aérea: Gol <br></p>
+              <span class="price">R$620.00</span>
+              <a href="#" class="add-cart-btn">Comprar</a>
+            </div>
+          </div>
+        </div>
+      </div>
+           <div class="product">
+        <div class="product-card">
+          <h2 class="name">Rio de Janeiro</h2>
+          <span class="price">R$620.00</span>
+          <a class="popup-btn">+</a>
+          <img src="images/rio.jpg" class="product-img" alt="">
+        </div>
+        <div class="popup-view">
+          <div class="popup-card">
+            <a><i class="fas fa-times close-btn"></i></a>
+            <div class="product-img">
+              <img src="images/rio.jpg" alt="">
+            </div>
+            <div class="info">
+              <h2>Rio de Janeiro<br><span>Rio de Janeiro</span></h2>
+              <p>Local De Partida: Escrever Aq <br> Local de Chegada: Rio De Janeiro <br> Número do Voo: 0013 <br> Empresa Aérea: Latam <br></p>
+              <span class="price">R$620.00</span>
+              <a href="#" class="add-cart-btn">Comprar</a>
+            </div>
+          </div>
+        </div>
+      </div>
+       <div class="product">
+        <div class="product-card">
+          <h2 class="name">Bonito</h2>
+          <span class="price">R$999.00</span>
+          <a class="popup-btn">+</a>
+          <img src="images/bonito.JPG" class="product-img" alt="">
+        </div>
+        <div class="popup-view">
+          <div class="popup-card">
+            <a><i class="fas fa-times close-btn"></i></a>
+            <div class="product-img">
+              <img src="images/bonito.JPG" alt="">
+            </div>
+            <div class="info">
+              <h2>Bonito<br><span>Mato Grosso do sul</span></h2>
+              <p>Local De Partida: Escrever Aq <br> Local de Chegada: Mato Grosso do Sul<br> Codigo Passagem: 2231  <br> Empresa Aérea: Azul <br</p>
+              <span class="price">R$999.00</span>
+              <a href="#" class="add-cart-btn">Comprar</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      </div>
     </div>
-    <!-- /models -->
 
-    <!-- .menu-openner aparecera no modo mobile -->
-   
-    <header>
-            <h1>UAI-Fly</h1>
-            
-        </header>
-    <!-- /menu-openner -->
+    <script type="text/javascript">
+    var popupViews = document.querySelectorAll('.popup-view');
+    var popupBtns = document.querySelectorAll('.popup-btn');
+    var closeBtns = document.querySelectorAll('.close-btn');
 
-    <!-- conteudo principal -->
-    <main>
-        
-        <h2>✈️ Lugares disponiveis para você ✈️</h2>
+    //javascript for quick view button
+    var popup = function(popupClick){
+      popupViews[popupClick].classList.add('active');
+    }
 
-        <div class="passagem-area"></div>
-    </main>
-    <!-- /conteudo principal -->
-<!--      
-    
-    <aside>
-        <div class="cart--area">
-            <div class="menu-closer">❌</div>
-            <h1>Suas Passagens</h1>
-            <div class="cart"></div>
-            <div class="cart--details">
-                <div class="cart--totalitem subtotal">
-                    <span>Subtotal</span>
-                    <span>R$ --</span>
-                </div>
-                <div class="cart--totalitem desconto">
-                    <span>Desconto</span>
-                    <span>R$ --</span>
-                </div>
-                <div class="cart--totalitem total big">
-                    <span>Total</span>
-                    <span>R$ --</span>
-                </div>
-                <div class="cart--finalizar">Finalizar a compra
-                    
-                </div>
-            </div>
-        </div>
-    </aside>
--->
-    <!-- /aside do carrinho -->
-       
-    <!-- janela modal .passagemWindowArea -->
-    <div class="passagemWindowArea">
-        <div class="passagemWindowBody">
-            <div class="passagemInfo--cancelMobileButton">Voltar</div>
-            <div class="passagemBig">
-                <img src="" />
-            </div>
-            <div class="passagemInfo">
-                <h1>--</h1>
-                <div class="passagemInfo--desc">--</div>
-                <div class="passagemInfo--sizearea">
-                    <div class="passagemInfo--sector">Tipo</div>
-                    <div class="passagemInfo--sizes">
-                        <div data-key="I" class="passagemInfo--size">Ida <span>1</span></div>
-                        <div data-key="I2" class="passagemInfo--size">Ida <span>--</span></div>
-                        <div data-key="IV" class="passagemInfo--size selected">Ida <span>--</span></div>
-                    </div>
-                </div>
-                <div class="passagemInfo--pricearea">
-                    <div class="passagemInfo--sector">Preço</div>
-                    <div class="passagemInfo--price">
-                        <div class="passagemInfo--actualPrice">R$ --</div>
-                        <div class="passagemInfo--qtarea">
-                        
-                            <div class="passagemInfo--qt">1</div>
-                            
-                        </div>
-                    </div>
-                    <div class="passagemInfo--pricearea">
-                       
-                        
-            
-                        
+    popupBtns.forEach((popupBtn, i) => {
+      popupBtn.addEventListener("click", () => {
+        popup(i);
+      });
+    });
 
-                        </div>
-                </div>
-                <div class="passagemInfo--addButton"><a href="carr.php">Comprar Agora</a></div>     
-                <div class="passagemInfo--cancelButton">Cancelar</div>
-            </div>
-        </div>
-    </div>
-    <!-- /janela modal .passagemWindowArea -->
+    //javascript for close button
+    closeBtns.forEach((closeBtn) => {
+      closeBtn.addEventListener("click", () => {
+        popupViews.forEach((popupView) => {
+          popupView.classList.remove('active');
+        });
+      });
+    });
+    </script>
 
-    <script src="script.js"></script>
-    <script src="passagens.js"></script>
-</body>
+  </body>
 </html>
+      
