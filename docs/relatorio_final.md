@@ -290,23 +290,23 @@ Por meio da tela inicial é possível acessar o login /cadastro e a página de p
 
 **TELA DE CADASTRO**
 
-![Tela de cadastro UAIFly](https://user-images.githubusercontent.com/104326131/208107650-01658cd0-dc71-4cc3-a6cd-941bd157d7dc.jpeg)
+![Tela de cadastro UaiFly](https://user-images.githubusercontent.com/104326131/208183097-582e672c-d93d-4340-9699-cef166e88aa3.jpeg)
 
-O usuário deverá preencher os dados cadastrais para que possa ter acesso às compras no site.
+O usuário deverá preencher todos os dados cadastrais para que possa ter acesso às compras no site.
 
 **TELA DE LOGIN**
 
-![Tela de login UAIFly](https://user-images.githubusercontent.com/104326131/208107675-a1cd9f82-9117-4b10-b29b-ca4552c0895c.jpeg)
+![Tela de login UaiFly](https://user-images.githubusercontent.com/104326131/208183152-ad91d995-27db-4e2d-abf1-7053118d2a1d.jpeg)
 
  O usuário deve inserir o email e senha cadastrados para entrar no site.
 
 **TELA DE COMPRA**
 
-![Tela de compra I UaiFly](https://user-images.githubusercontent.com/104326131/207866249-8a44c523-31cd-48a2-97b0-20f4e904dd61.jpeg)
+![Tela de compra 1 UaiFly](https://user-images.githubusercontent.com/104326131/208183292-3b70080c-d5c2-4a12-8977-c85925f12fe0.jpeg)
+![Tela de compra 2 UaiFly](https://user-images.githubusercontent.com/104326131/208183312-128c8a15-6560-4847-aae2-c346cd463170.jpeg)
+![Tela de compra 3 UaiFly](https://user-images.githubusercontent.com/104326131/208183340-03f9fecd-33a2-45d0-91b5-068e15b4e884.jpeg)
 
-![passagens](https://user-images.githubusercontent.com/76188108/208055043-4947ae5f-5c5b-46b5-b5b7-776878027845.png)
-
-Por meio da tela de compra é possível escolher o destino e as datas de ida e volta. Após a escolha, todas opções aparecerão e o usuário poderá adicionar ao carrinho a opção desejada.
+O usuário deve inserir o local de partida e, após a escolha, todas opções de cidades com voos disponíveis partindo do local desejado aparecerão e o usuário poderá adicionar ao carrinho de compras a opção desejada.
 
 **TELA DE CHECK-IN E DE CANCELAMENTO**
 
