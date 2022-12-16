@@ -310,9 +310,10 @@ O usuário deve inserir o local de partida  para que todas opções de cidades c
 
 **TELA DE CHECK-IN E DE CANCELAMENTO**
 
-![check](https://user-images.githubusercontent.com/76188108/208055161-a2589b90-e602-456b-b04c-df373b1ce6a5.png)
+![Tela de check-in UaiFly](https://user-images.githubusercontent.com/104326131/208184830-7d4a651b-a249-4cc3-a46b-2091993c697c.jpeg)
+![Tela de cancelamento UaiFly](https://user-images.githubusercontent.com/104326131/208184843-912b1be7-ca68-4c7c-8bff-2f1f888e7605.jpeg)
 
-Com essa tela é possível cancelar as passagens já compradas pelo usuário e realizar o check-in.
+Com essa tela é possível cancelar as passagens já compradas pelo usuário e também realizar o check-in.
 
 **TELA DE PAGAMENTO**
 
