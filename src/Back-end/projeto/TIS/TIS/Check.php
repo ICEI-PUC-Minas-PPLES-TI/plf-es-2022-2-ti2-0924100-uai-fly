@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script
+      src="https://kit.fontawesome.com/64d58efce2.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="stylelogin.css" />
+    <title>Login</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="forms-container">
+        <div class="signin-signup">
+          <form action="testeCheck.php" method="POST" class="sign-in-form">
+            <h2 class="title">Check-in</h2>
+            <div class="input-field">
+              <i class="fas fa-user"></i>
+              <input type="text" name="companhia" placeholder="Companhia do voo" />
+            </div>
+            <div class="input-field">
+              <i class="fas fa-passport"></i>
+              <input type="text" name="cpf" placeholder="CPF" />
+            </div>
+            <div class="input-field">
+              <i class="fas fa-question"></i>
+              <input type="text" name="partida" placeholder="De onde parte seu voo" />
+            </div>
+            <div class="input-field">
+              <i class="fas fa-plane"></i>
+              <input type="text" name="chegada" placeholder="Destino" />
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" value=""id="flexCheckIndeterminate">
+  <label class="form-check-label" for="flexCheckIndeterminate">
+    Declaro que li e concordo com o regulamento
+  </label>
+              </div>
+            <input type="submit" name="submit" class="btn" value="Confirmar" />
+            
+            </div>
+        </div>
+          </form>
+          
+          <div class="panels-container">
+            <div class="panel left-panel">
+              <div class="content">
+            <h3>Deseja cancelar sua passagem?</h3>
+                <p>
+              Poxa, sentimos muito pelo cancelamento do seu pedido. Ficamos tristes por isso, mas nossa porta está sempre aberta para quando quiser voltar.
+            </p>
+                <a href="Canc.php"><button style="background: #04befe; border-radius: 20px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px; font-family: Poppins;">Cancelamento</button></a>
+            </div>
+                
+              <img src="Screenshot_1.png" class="image" alt="" />
+            </div>
+      
+  </body>
+</html>
