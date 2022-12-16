@@ -9,7 +9,8 @@ let passagemJson = [
           '2 pessoas',
           '1 pessoa'
         ],
-        description: 'Localizado em Pernambuco'
+        description: 'Local De Chegada: Aeroporto Noronha <br> Codigo Da Passagem: 7789<br> Empresa Aérea: Azul <br> Localizado em Pernambuco'
+        
       },
       {
         id: 2,
@@ -21,7 +22,8 @@ let passagemJson = [
           '2 pessoas',
           '1 pessoa'
         ],
-        description: 'Localizado no Paraná'
+        description: 'Local De Chegada: Aeroporto Curitiba <br> Numero Do Voo: 4401 <br> Empresa Aérea: Gol <br> Localizado no Paraná'
+        
       },
       {
         id: 3,
@@ -33,7 +35,7 @@ let passagemJson = [
           '2 pessoas',
           '1 pessoa'
         ],
-        description: 'Localizado no Paraná'
+        description: 'Local De Chegada: Aeroporto: Foz Do Iguaçu <br> Numero Do Voo: 2213 <br> Empresa Aérea: TAM <br> Localizado no Paraná'
       },
       {
         id: 4,
@@ -45,7 +47,7 @@ let passagemJson = [
           '2 pessoas',
           '1 pessoa'
         ],
-        description: 'Localizado em Minas Gerais'
+        description: 'Local De Chegada: Aeroporto Confis <br> Numero Do Voo: 2200 <br> Empresa Aérea: Azul <br> Localizado em Minas Gerais'
       },
       {
         id: 5,
@@ -57,7 +59,7 @@ let passagemJson = [
           '2 pessoas',
           '1 pessoa'
         ],
-        description: 'Localizado em Minas Gerais'
+        description: 'Local De Chegada: Aeroporto Raul Soares<br> Numero Do Voo: 0021<br> Empresa Aérea: Gol <br> Localizado em Minas Gerais'
       },
       {
         id: 6,
@@ -69,7 +71,7 @@ let passagemJson = [
           '2 pessoas',
           '1 pessoa'
         ],
-        description: 'Localizado em São Paulo'
+        description: 'Local De Chegada: Aeroporto São Paulo <br> Numero Do Voo: 3132 <br> Empresa Aérea: Gol <br> Localizado em São Paulo'
       },
       {
         id: 7,
@@ -81,7 +83,7 @@ let passagemJson = [
           '2 pessoa',
           '1 pessoa'
         ],
-        description: 'Localizado no Rio de Janeiro'
+        description: 'Local De Chegada: Aeroporto Rio De Janeiro <br> Numero Do Voo: 0013 <br> Empresa Aérea: Latam <br> Localizado no Rio de Janeiro'
       },
       {
         id: 8,
@@ -93,7 +95,7 @@ let passagemJson = [
           '2 pessoas',
           '1 pessoa'
         ],
-        description: 'Localizado em Mato Grosso do Sul'
+        description: 'Local De Chegada: MS<br> Codigo Passagem: 2231  <br> Empresa Aérea: Azul <br> Localizado em Mato Grosso do Sul'
       }
       
 ];
