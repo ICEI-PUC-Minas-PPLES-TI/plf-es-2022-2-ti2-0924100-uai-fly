@@ -247,7 +247,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Enviar | Botão | Todos os campos devem estar preenchidos| - |
+| Enviar | Botão | Todos os campos obrigatórios devem estar preenchidos| - |
 |    |    |     |
 
 
