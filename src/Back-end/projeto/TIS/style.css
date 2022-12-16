@@ -321,7 +321,7 @@
   \*-----------------------------------*/
   
   .hero {
-    background-image: url("../images/AEROPORTO.jpg");
+    background-image: url("AEROPORTO.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

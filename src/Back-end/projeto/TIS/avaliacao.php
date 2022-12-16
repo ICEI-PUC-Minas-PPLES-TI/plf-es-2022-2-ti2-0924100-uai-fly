@@ -59,11 +59,11 @@
             </div>
             <div class="app-form-group buttons">
             <button type="submit" name="submit">ENVIAR</button>
-            <a href="telacomp.php"><button type="submit" name="submit-cidade">SAIR</button></a>
             </div>
           </div>
         </div>
         </form>
+        <a href="telacomp.php"><button type="submit" name="submit-cidade">SAIR</button></a>
       </div>
     </div>
     <div class="credits">

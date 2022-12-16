@@ -1,7 +1,7 @@
 <?php
     session_start();
 
-    print_r($_REQUEST);
+    //print_r($_REQUEST);
 
     $a ='a';
 
@@ -17,19 +17,19 @@
 
         //print_r($sql);
         //print_r('  ///  ');
-        print_r($result);
+        //print_r($result);
 
         if(mysqli_num_rows($result) < 1){
-           // header('Location: Check.php');
+            header('Location: Check.php');
         }
 
         else{
-           // header('Location: index.html');
+            header('Location: msg2.html');
         }
     }
 
     else{
 
-       // header('Location: telacomp.php');
+       header('Location: telacomp.php');
     }
 ?>
