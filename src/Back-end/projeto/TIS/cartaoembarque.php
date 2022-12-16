@@ -1,5 +1,6 @@
 <?php
   session_start();
+  $cpf = $_SESSION['cpf'];
     if(isset($_POST['submit']))
     {
         include_once('config.php');
@@ -7,12 +8,33 @@
         $numero = $_POST['numero'];
         $data_validade = $_POST['data_validade'];
         $cvv = $_POST['cvv'];
-        $cpf = $_SESSION['cpf'];
 
         $result = mysqli_query($conexao, "INSERT INTO cartao(cpf,numero,data_validade,cvv) VALUES('$cpf','$numero','$data_validade','$cvv')");
 
         //printf("Errormessage: %s\n", $conexao->error);
-    } 
+    }
+
+        $partida = $_SESSION['cidade_partida'];
+
+        $consulta = "SELECT nome FROM cliente WHERE cpf = '$cpf'";
+        $con = $conexao->query($consulta) or die($mysqli->error);
+        $dado = $con->fetch_array();             
+        $nome = $dado['nome'];
+
+        $consulta = "SELECT valor FROM compra WHERE cpf = '$cpf'";
+        $con = $conexao->query($consulta) or die($mysqli->error);
+        $dado = $con->fetch_array();             
+        $preco = $dado['valor'];
+
+        $consulta = "SELECT local_chegada FROM voo WHERE cpf = '$cpf'";
+        $con = $conexao->query($consulta) or die($mysqli->error);
+        $dado = $con->fetch_array();             
+        $chegada = $dado['local_chegada'];
+
+        $consulta = "SELECT numero_voo FROM voo WHERE cpf = '$cpf'";
+        $con = $conexao->query($consulta) or die($mysqli->error);
+        $dado = $con->fetch_array();             
+        $voo = $dado['numero_voo'];
 ?>
 
 <!DOCTYPE html>
@@ -37,11 +59,11 @@
           <img src="flowcode.png" width="50px" height="50px" alt="">
           <div class="price">
             <center>
-              <strong>Nome cliente</strong> <br> 
-              <span>✈️Nº do voo</span>
-              <span>$Preço passagem</span> <br>
-              <span>Local saída</span> <br>
-              <span>Local destino</span> <br>
+              <strong>Nome cliente:<?php echo $nome; ?></strong> <br> 
+              <span>✈️Nº do voo:<?php echo $voo; ?></span><br>
+              <span>Preço passagem:$<?php echo $preco; ?></span> <br>
+              <span>Local saída:<?php echo $_SESSION['cidade_partida']; ?></span> <br>
+              <span>Local destino:<?php echo $chegada; ?></span> <br>
             </div>
           </div>
         </center>

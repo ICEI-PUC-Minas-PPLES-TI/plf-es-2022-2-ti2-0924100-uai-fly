@@ -66,7 +66,7 @@
       <div class="overlay" data-overlay></div>
 
       <a href="#" class="logo">
-        <img src="./assets/images/logo1 - Copia.png" alt="UAI-Fly">
+        <img src="logo1 - Copia.png" alt="UAI-Fly">
       </a>
 
       <nav class="navbar" data-navbar>
@@ -77,7 +77,7 @@
           </li>
 
           <li>
-            <a href="indexavaliacao.html" class="navbar-link" data-nav-link>Avaliações</a>
+            <a href="avaliacao.php" class="navbar-link" data-nav-link>Avaliações</a>
           </li>
 
           <li>
@@ -185,7 +185,7 @@
               <div class="featured-car-card">
 
                 <figure class="card-banner">
-                  <img src="./assets/images/noronha.jpg" alt="Toyota RAV4 2021" loading="lazy" width="440" height="300"
+                  <img src="noronha.jpg" alt="Toyota RAV4 2021" loading="lazy" width="440" height="300"
                     class="w-100">
                 </figure>
 
@@ -245,7 +245,7 @@
               <div class="featured-car-card">
 
                 <figure class="card-banner">
-                  <img src="./assets/images/curitiba.jpg" alt="BMW 3 Series 2019" loading="lazy" width="440" height="300"
+                  <img src="curitiba.jpg" alt="BMW 3 Series 2019" loading="lazy" width="440" height="300"
                     class="w-100">
                 </figure>
 
@@ -303,7 +303,7 @@
               <div class="featured-car-card">
 
                 <figure class="card-banner">
-                  <img src="./assets/images/foz.jpg" alt="Volkswagen T-Cross 2020" loading="lazy" width="440"
+                  <img src="foz.jpg" alt="Volkswagen T-Cross 2020" loading="lazy" width="440"
                     height="300" class="w-100">
                 </figure>
 
@@ -362,7 +362,7 @@
               <div class="featured-car-card">
 
                 <figure class="card-banner">
-                  <img src="./assets/images/capitolio.jpg" alt="Cadillac Escalade 2020" loading="lazy" width="440"
+                  <img src="capitolio.jpg" alt="Cadillac Escalade 2020" loading="lazy" width="440"
                     height="300" class="w-100">
                 </figure>
 
@@ -421,7 +421,7 @@
               <div class="featured-car-card">
 
                 <figure class="card-banner">
-                  <img src="./assets/images/raul.jpg" alt="BMW 4 Series GTI 2021" loading="lazy" width="440"
+                  <img src="raul.jpg" alt="BMW 4 Series GTI 2021" loading="lazy" width="440"
                     height="300" class="w-100">
                 </figure>
 
@@ -480,7 +480,7 @@
               <div class="featured-car-card">
 
                 <figure class="card-banner">
-                  <img src="./assets/images/sp.jpg" alt="BMW 4 Series 2019" loading="lazy" width="440" height="300"
+                  <img src="sp.jpg" alt="BMW 4 Series 2019" loading="lazy" width="440" height="300"
                     class="w-100">
                 </figure>
 
@@ -560,7 +560,7 @@
                 <figure class="card-banner">
 
                   <a href="#">
-                    <img src="./assets/images/azul-brazilian-airlines.jpg" alt="Opening of new offices of the company" loading="lazy"
+                    <img src="azul-brazilian-airlines.jpg" alt="Opening of new offices of the company" loading="lazy"
                       class="w-100">
                   </a>
 
@@ -601,7 +601,7 @@
                 <figure class="card-banner">
 
                   <a href="#">
-                    <img src="./assets/images/gol.jpg" alt="What cars are most vulnerable" loading="lazy"
+                    <img src="gol.jpg" alt="What cars are most vulnerable" loading="lazy"
                       class="w-100">
                   </a>
 
@@ -642,7 +642,7 @@
                 <figure class="card-banner">
 
                   <a href="#">
-                    <img src="./assets/images/_GenericHero_1168x606.jpg" alt="Statistics showed which average age" loading="lazy"
+                    <img src="_GenericHero_1168x606.jpg" alt="Statistics showed which average age" loading="lazy"
                       class="w-100">
                   </a>
 
@@ -683,7 +683,7 @@
                 <figure class="card-banner">
 
                   <a href="#">
-                    <img src="./assets/images/avianca.jpg" alt="What´s required when renting a car?" loading="lazy"
+                    <img src="avianca.jpg" alt="What´s required when renting a car?" loading="lazy"
                       class="w-100">
                   </a>
 
@@ -741,7 +741,7 @@
 
         <div class="footer-brand">
           <a href="#" class="logo">
-            <img src="./assets/images/logo1 - Copia.png" alt="Ridex logo">
+            <img src="logo1 - Copia.png" alt="Ridex logo">
           </a>
 
           <p class="footer-text">

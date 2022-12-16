@@ -9,9 +9,11 @@
         $valor = $_POST['valor'];
         $cpf = $_SESSION['cpf'];
 
-        $result = mysqli_query($conexao, "DELETE FROM compra WHERE cpf = '1' and valor ='$valor'");
+        $result = mysqli_query($conexao, "DELETE FROM compra WHERE cpf = '$cpf' and valor ='$valor'");
 
-        $result2 = mysqli_query($conexao, "DELETE FROM voo WHERE cpf = '1' and companhia_aerea ='$companhia' and numero_voo ='$numero_voo'");
+        $result2 = mysqli_query($conexao, "DELETE FROM voo WHERE cpf = '$cpf' and companhia_aerea ='$companhia' and numero_voo ='$numero_voo'");
+
+        $result3 = mysqli_query($conexao, "DELETE FROM bagagem WHERE cpf = '$cpf'");
 
         printf("Errormessage: %s\n", $conexao->error);
 
