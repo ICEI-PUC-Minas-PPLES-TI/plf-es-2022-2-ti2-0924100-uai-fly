@@ -312,7 +312,7 @@ Por meio da tela de compra é possível escolher o destino e as datas de ida e v
 
 ![check](https://user-images.githubusercontent.com/76188108/208055161-a2589b90-e602-456b-b04c-df373b1ce6a5.png)
 
-Com essa tela é possível cancelar as passagens já compradas pelo usuário.
+Com essa tela é possível cancelar as passagens já compradas pelo usuário e realizar o check-in.
 
 **TELA DE PAGAMENTO**
 
