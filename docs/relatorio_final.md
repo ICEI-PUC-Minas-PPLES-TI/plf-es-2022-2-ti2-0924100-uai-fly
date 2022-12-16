@@ -330,14 +330,9 @@ Com essa tela é possível cancelar as passagens já compradas pelo usuário e t
 
 **TELA DE AVALIAÇÃO DOS SERVIÇOS**
 
-![Tela de avaliação UaiFly](https://user-images.githubusercontent.com/104326131/207866346-d60124d4-f90c-4001-8e0a-5a0ddb27bc51.jpeg)
-Tela de formulário perguntando se o usuário deseja avaliar ou não os serviços, além de poder adicionar sugestões para a melhoria do site.
+![Tela de avaliação UaiFly](https://user-images.githubusercontent.com/104326131/208187144-1cb12b84-8e37-4203-b36e-b4a20e1d1ed6.jpeg)
 
-**TELA DE AJUDA**
-
-![Tela de ajuda UaiFly](https://user-images.githubusercontent.com/104326131/207866362-d1629189-2e55-4830-83ff-fcbdacf878f5.jpeg)
-
-Espaço destinado ao esclarecimento de dúvidas durante o processo de compra ou cancelamento.
+Espaço destinado a avaliação dos serviços, no qual o usuário poderá dar uma nota de 1 a 5, além de poder adicionar sugestões para a melhoria do site.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SITE NO AR: https://www.uaifly.xdlab.com.br/
