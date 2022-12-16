@@ -317,14 +317,15 @@ Com essa tela é possível cancelar as passagens já compradas pelo usuário e t
 
 **TELA DE PAGAMENTO**
 
-![Tela de pagamento UaiFly](https://user-images.githubusercontent.com/104326131/208185474-95512381-3435-49a0-bf58-1871bf30a156.jpeg)
+![Tela de pagamento UaiFly](https://user-images.githubusercontent.com/104326131/208185869-086da330-d834-41be-b4b1-7287db8a0511.jpeg)
+![Tela cartão de embarque UaiFly](https://user-images.githubusercontent.com/104326131/208186212-9e7c4be6-23f8-42cf-b500-b3b16edae924.jpeg)
 
-Nesta tela aparecem os detalhes do pagamento, nos quais serão inseridas informações do cartão. Após o preenchimento dos dados é possível concluir a compra.
+Nesta tela aparecem os detalhes do pagamento, nos quais serão inseridas informações do cartão. Após o preenchimento dos dados um cartão de embarque é gerado, confirmando os dados da compra.
 
 **TELA DE AVALIAÇÃO DOS SERVIÇOS**
 
 ![Tela de avaliação UaiFly](https://user-images.githubusercontent.com/104326131/207866346-d60124d4-f90c-4001-8e0a-5a0ddb27bc51.jpeg)
-Após a conclusão da compra ou do cancelamento das passagens aparecerá a tela de formulário perguntando se o usuário deseja avaliar ou não os serviços, além de poder adicionar sugestões para a melhoria do site.
+Tela de formulário perguntando se o usuário deseja avaliar ou não os serviços, além de poder adicionar sugestões para a melhoria do site.
 
 **TELA DE AJUDA**
 
