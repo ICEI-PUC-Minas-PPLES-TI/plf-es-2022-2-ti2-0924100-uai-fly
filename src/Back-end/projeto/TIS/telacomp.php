@@ -8,6 +8,20 @@
       header('Location: login.php');
     }
     $logado = $_SESSION['email'];
+    $cpf = $_SESSION['cpf'];
+
+    if(isset($_POST['submit']))
+    {
+        include_once('config.php');
+
+        $cidade_partida = $_POST['cidade'];
+        $_SESSION['cidade_partida'] = $cidade_partida;
+
+
+        $result = mysqli_query($conexao, "UPDATE cliente SET cidade = '$cidade_partida'  WHERE cpf = '$cpf';");
+
+        //printf("Errormessage: %s\n", $conexao->error);
+    }
 ?>
 
 <!DOCTYPE html>
@@ -59,15 +73,15 @@
         <ul class="navbar-list">
 
           <li>
-            <a href="#home" class="navbar-link" data-nav-link>inicio</a>
+            <a href="index.html" class="navbar-link" data-nav-link>inicio</a>
           </li>
 
           <li>
-            <a href="#passagem" class="navbar-link" data-nav-link>Passagens</a>
+            <a href="indexavaliacao.html" class="navbar-link" data-nav-link>Avaliações</a>
           </li>
 
           <li>
-            <a href="#comp" class="navbar-link" data-nav-link>Avaliações</a>
+            <a href="Check.php" class="navbar-link" data-nav-link>Check-in/Cancelamento</a>
           </li>
 
         </ul>
@@ -76,15 +90,15 @@
       <div class="header-actions">
 
         <div class="header-contact">
-          <a href="tel:88002345678" class="contact-link">+55 (31) ********</a>
+          <a href="ajuda.html" class="contact-link">+55 (31) ********</a>
 
           <span class="contact-time">Seg - Sex: 9:00 - 18:00</span>
         </div>
 
-        <a href="carr.php" class="btn" aria-labelledby="aria-label-txt">
+        <a href="index.html" class="btn" aria-labelledby="aria-label-txt">
           <ion-icon name="cart-outline"></ion-icon>
 
-          <span id="aria-label-txt">Carrinho</span>
+          <span id="aria-label-txt">Sair</span>
         </a>
 
         <a href="#" class="btn user-btn" aria-label="Profile">
@@ -127,30 +141,18 @@
 
           <div class="hero-banner"></div>
 
-          <form action="" class="hero-form">
+          <form action="pass.php" method="POST" class="hero-form">
 
             <div class="input-wrapper">
-              <label for="input-1" class="input-label">Destino</label>
+              <label for="input-1" class="input-label">Vamos encontrar as melhores passagens para você</label>
 
-              <input type="text" name="car-model" id="input-1" class="input-field"
-                placeholder="Onde deseja ir?">
+              <input type="text" name="cidade" id="input-1" class="input-field"
+                placeholder="De onde você vai partir? (Cidade)">
             </div>
 
-            <div class="input-wrapper">
-              <label for="input-2" class="input-label">Data de ida</label>
 
-              <input type="date" name="monthly-pay" id="input-2" class="input-field" placeholder="Add an amount in $">
-            </div>
-
-            <div class="input-wrapper">
-              <label for="input-3" class="input-label">Data de volta</label>
-
-              <input type="date" name="year" id="input-3" class="input-field" placeholder="Add a minimal make year">
-            </div>
-            
-
-            <button type="submit" class="btn">Pesquisar</button>
-
+            <!--<input href="pass.php" type="submit" name="submit" class="btn"></input>-->
+            <a href="pass.php"><button type="submit" name="submit-cidade" class="btn">Vamos lá!</button></a>
           </form>
 
         </div>

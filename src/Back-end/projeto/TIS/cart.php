@@ -4,12 +4,11 @@
     {
         include_once('config.php');
 
-        $numero = $_POST['numero'];
-        $data_validade = $_POST['data_validade'];
-        $cvv = $_POST['cvv'];
+        $nome = $_POST['nome'];
+        $quantidade = $_POST['quantidade'];
         $cpf = $_SESSION['cpf'];
 
-        $result = mysqli_query($conexao, "INSERT INTO cartao(cpf,numero,data_validade,cvv) VALUES('$cpf','$numero','$data_validade','$cvv')");
+        $result = mysqli_query($conexao, "INSERT INTO bagagem(cpf,nome,quantidade) VALUES('$cpf','$nome','$quantidade')");
 
         //printf("Errormessage: %s\n", $conexao->error);
     } 
@@ -72,7 +71,7 @@
 
           </div>
 
-          <form id = "form" action="cart.php" method="POST">
+          <form id = "form" action="cartaoembarque.php" method="POST">
 
             <div class="card-number">
               <label for="card-number" class="label-default">Numero do cartão</label>
@@ -108,128 +107,8 @@
       <!--
         - cart section
       -->
-      <section class="cart">
-
-        <div class="cart-item-box">
-
-          <h2 class="section-heading">Pedido</h2>
-
-          <div class="product-card">
-
-            <div class="card">
-
-              <div class="img-box">
-                <img src="./assets/images/sp.jpg" alt="São Paulo" width="80px" class="product-img">
-              </div>
-
-              <div class="detail">
-
-                <h4 class="product-name">Pacote Sao Paulo</h4>
-
-                <div class="wrapper">
-
-                  <div class="product-qty">
-                    <button id="decrement">
-                      <ion-icon name="remove-outline"></ion-icon>
-                    </button>
-
-                    <span id="quantity">1</span>
-
-                    <button id="increment">
-                      <ion-icon name="add-outline"></ion-icon>
-                    </button>
-                  </div>
-
-                  <div class="price">
-                    R$ <span id="price">490</span>
-                  </div>
-
-                </div>
-
-              </div>
-
-              <button class="product-close-btn">
-                <ion-icon name="close-outline"></ion-icon>
-              </button>
-
-            </div>
-
-          </div>
-
-          <div class="product-card">
-
-            <div class="card">
-
-              <div class="img-box">
-                <img src="./assets/images/noronha.jpg" alt="Cabbage" width="80px" class="product-img">
-              </div>
-
-              <div class="detail">
-
-                <h4 class="product-name">Pacote Fernando de Noronha</h4>
-
-                <div class="wrapper">
-
-                  <div class="product-qty">
-                    <button id="decrement">
-                      <ion-icon name="remove-outline"></ion-icon>
-                    </button>
-
-                    <span id="quantity">1</span>
-
-                    <button id="increment">
-                      <ion-icon name="add-outline"></ion-icon>
-                    </button>
-                  </div>
-
-                  <div class="price">
-                    R$ <span id="price">440</span>
-                  </div>
-
-                </div>
-
-              </div>
-
-              <button class="product-close-btn">
-                <ion-icon name="close-outline"></ion-icon>
-              </button>
-
-            </div>
-
-          </div>
-
-        </div>
-
-        <div class="wrapper">
-
-          <div class="discount-token">
-
-
-
-            <div class="wrapper-flex">
-            </div>
-
-          </div>
-
-          <div class="amount">
-
-            <div class="subtotal">
-              <span>Subtotal</span> <span>R$ <span id="subtotal">930</span></span>
-            </div>
-
-            <div class="tax">
-              <span>Taxa</span> <span>R$ <span id="tax">0.10</span></span>
-            </div>
-
-            <div class="total">
-              <span>Total</span> <span>R$ <span id="total">930.10</span></span>
-            </div>
-
-          </div>
-
-        </div>
-
-      </section>
+      
+      
 
     </div>
 

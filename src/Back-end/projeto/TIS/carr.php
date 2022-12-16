@@ -4,11 +4,12 @@
     {
         include_once('config.php');
 
-        $nome = $_POST['nome'];
-        $quantidade = $_POST['quantidade'];
+        $destino = $_POST['destino'];
+        //$quantidade = $_POST['quantidade'];
         $cpf = $_SESSION['cpf'];
 
-        $result = mysqli_query($conexao, "INSERT INTO bagagem(cpf,nome,quantidade) VALUES('$cpf','$nome','$quantidade')");
+        //$result = mysqli_query($conexao, "INSERT INTO bagagem(cpf,nome,quantidade) VALUES('$cpf','$nome','$quantidade')");
+        echo $destino;
 
         //printf("Errormessage: %s\n", $conexao->error);
     } 
@@ -61,7 +62,7 @@
 
         <div class="payment-form">
 
-          <form id = "form" action="carr.php" method="POST">
+          <form id = "form" action="cart.php" method="POST">
 
             <div class="cardholder-name">
               <label for="cardholder-name" class="label-default">Quantidade</label>
@@ -82,13 +83,9 @@
 
             </div>
 
-            <input href="cart.php" type="submit" class="btn btn-primary" value="Ok" name="submit"  />
+            <input href="cart.php" type="submit" class="btn btn-primary" value="Cadastrar" name="submit"  />
 
           </form>
-
-          <a href="cart.php" class="compra">
-              <button class="btn btn-primary">Proxima etapa</button>
-            </a>
 
         </div>
       </section>
