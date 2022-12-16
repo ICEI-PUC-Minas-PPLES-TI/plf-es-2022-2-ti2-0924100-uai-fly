@@ -11,7 +11,7 @@
  
  **Pedro Afonso, pedroafonso939@Yahoo.com.br**
  
- **Vitor Souza, vifersouza@gmail.com**
+ **Vitor Fernandes de Souza, vifersouza@gmail.com**
 
 ---
 
