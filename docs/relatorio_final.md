@@ -237,10 +237,10 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Como você avaliaria a qualidade do serviço? | Múltipla escolha | - | - |
-| Foi fácil usar o site? | Múltipla escolha | - | - |
-| Qual é a probabilidade de você comprar com a UAI-Fly novamente? | Múltipla escolha | - | - |
-| Qual é a probabilidade de você indicar nossos serviços? | Múltipla escolha | - | - |
+| Como você avaliaria a qualidade do serviço? | Múltipla escolha | Obrigatório | - |
+| Foi fácil usar o site? | Múltipla escolha | Obrigatório | - |
+| Qual é a probabilidade de você comprar com a UAI-Fly novamente? | Múltipla escolha | Obrigatório | - |
+| Qual é a probabilidade de você indicar nossos serviços? | Múltipla escolha | Obrigatório | - |
 | O que tornaria este serviço melhor? (Adicionar comentário/sugestão) |  Caixa de texto  | Opcional | - |
 
 **Enviar formulário**
