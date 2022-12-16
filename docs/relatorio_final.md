@@ -308,21 +308,16 @@ O usuário deverá preencher os dados cadastrais para que possa ter acesso às c
 
 Por meio da tela de compra é possível escolher o destino e as datas de ida e volta. Após a escolha, todas opções aparecerão e o usuário poderá adicionar ao carrinho a opção desejada.
 
-
-
-**TELA DE CHECK-IN**
+**TELA DE CHECK-IN E DE CANCELAMENTO**
 
 ![check](https://user-images.githubusercontent.com/76188108/208055161-a2589b90-e602-456b-b04c-df373b1ce6a5.png)
 
+Com essa tela é possível cancelar as passagens já compradas pelo usuário.
 
 **TELA DE PAGAMENTO**
 
 ![carrinho](https://user-images.githubusercontent.com/76188108/208055755-0ff05cf3-3575-4c64-b5c2-97ee824a34db.png)
 Nesta tela aparecem todos os pedidos realizados e o preço total, além dos detalhes do pagamento, nos quais serão inseridas informações do cartão. Após o preenchimento dos dados é possível concluir a compra.
-
-**TELA DE CANCELAMENTO**
-
-Com essa tela é possível cancelar as passagens já compradas pelo usuário.
 
 **TELA DE AVALIAÇÃO DOS SERVIÇOS**
 
