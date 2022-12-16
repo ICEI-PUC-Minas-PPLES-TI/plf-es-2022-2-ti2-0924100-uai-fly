@@ -352,6 +352,10 @@ Tela de mensagem: https://replit.com/@Beatrizde5/mensagem
 
 Todas as telas juntas: https://uai-fly.beatrizde5.repl.co/
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SITE NO AR: https://www.uaifly.xdlab.com.br/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 8. Conclusão
 
 A UAI-Fly é um software de vendas de passagens aéreas que foi desenvolvido com o intuito de selecionar as melhores passagens para que o usuário poupe tempo e dinheiro na sua procura, garantindo uma compra confiável e segura.
