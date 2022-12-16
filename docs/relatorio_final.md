@@ -317,8 +317,9 @@ Com essa tela é possível cancelar as passagens já compradas pelo usuário e t
 
 **TELA DE PAGAMENTO**
 
-![carrinho](https://user-images.githubusercontent.com/76188108/208055755-0ff05cf3-3575-4c64-b5c2-97ee824a34db.png)
-Nesta tela aparecem todos os pedidos realizados e o preço total, além dos detalhes do pagamento, nos quais serão inseridas informações do cartão. Após o preenchimento dos dados é possível concluir a compra.
+![Tela de pagamento UaiFly](https://user-images.githubusercontent.com/104326131/208185474-95512381-3435-49a0-bf58-1871bf30a156.jpeg)
+
+Nesta tela aparecem os detalhes do pagamento, nos quais serão inseridas informações do cartão. Após o preenchimento dos dados é possível concluir a compra.
 
 **TELA DE AVALIAÇÃO DOS SERVIÇOS**
 
