@@ -258,7 +258,7 @@ As tecnologias que serão utilizadas são HTML, CSS, JavaScript, MySql, PHP, XAM
 
 Apresente o modelo de dados por meio de um modelo relacional ou Diagrama de Entidade-Relacionamento (DER) que contemple todos conceitos e atributos apresentados item anterior. 
 
-![image](https://user-images.githubusercontent.com/99293679/208045669-1fa3c54c-d45d-4829-b791-9f20e3edd902.png)
+![image](https://user-images.githubusercontent.com/99293679/208084598-c1fa7f08-b130-4d3e-a4db-aaa28e246d01.png)
 
 
 ## 6. Indicadores de desempenho
