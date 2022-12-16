@@ -317,7 +317,7 @@ Por meio da tela de compra é possível escolher o destino e as datas de ida e v
 
 **TELA DE PAGAMENTO**
 
-![Tela de pagamento UaiFly](https://user-images.githubusercontent.com/104326131/207866314-6e124932-adf3-426c-bc55-902c1fe33944.jpeg)
+![carrinho](https://user-images.githubusercontent.com/76188108/208055755-0ff05cf3-3575-4c64-b5c2-97ee824a34db.png)
 Nesta tela aparecem todos os pedidos realizados e o preço total, além dos detalhes do pagamento, nos quais serão inseridas informações do cartão. Após o preenchimento dos dados é possível concluir a compra.
 
 **TELA DE CANCELAMENTO**
