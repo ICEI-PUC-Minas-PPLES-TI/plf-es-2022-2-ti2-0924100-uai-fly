@@ -314,8 +314,11 @@ O usuário deverá preencher os dados cadastrais para que possa ter acesso às c
 **TELA DE COMPRA**
 
 ![Tela de compra I UaiFly](https://user-images.githubusercontent.com/104326131/207866249-8a44c523-31cd-48a2-97b0-20f4e904dd61.jpeg)
+
 ![Tela de compra II UaiFly](https://user-images.githubusercontent.com/104326131/207866267-6265aa53-ff1c-4b66-9079-b4b826b58f16.jpeg)
 Por meio da tela de compra é possível escolher o destino e as datas de ida e volta. Após a escolha, todas opções aparecerão e o usuário poderá adicionar ao carrinho a opção desejada.
+
+
 
 **TELA DE CHECK-IN**
 
