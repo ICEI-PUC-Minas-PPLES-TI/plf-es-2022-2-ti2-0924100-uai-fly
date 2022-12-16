@@ -290,13 +290,13 @@ Por meio da tela inicial é possível acessar o login /cadastro e a página de p
 
 **TELA DE CADASTRO**
 
-![cadastro](https://user-images.githubusercontent.com/76188108/208054502-7546c072-9dc6-4edd-9f63-b0cf0b06eaae.png)
+![Tela de cadastro UAIFly](https://user-images.githubusercontent.com/104326131/208107650-01658cd0-dc71-4cc3-a6cd-941bd157d7dc.jpeg)
 
 O usuário deverá preencher os dados cadastrais para que possa ter acesso às compras no site.
 
 **TELA DE LOGIN**
 
-![entrar](https://user-images.githubusercontent.com/76188108/208054237-389fceca-5951-4fa9-a521-11ec3a6e7c7b.png)
+![Tela de login UAIFly](https://user-images.githubusercontent.com/104326131/208107675-a1cd9f82-9117-4b10-b29b-ca4552c0895c.jpeg)
 
  O usuário deve inserir o email e senha cadastrados para entrar no site.
 
