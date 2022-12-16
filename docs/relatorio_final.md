@@ -303,12 +303,10 @@ O usuário deverá preencher todos os dados cadastrais para que possa ter acesso
 **TELA DE COMPRA**
 
 ![Tela de compra 1 UaiFly](https://user-images.githubusercontent.com/104326131/208183292-3b70080c-d5c2-4a12-8977-c85925f12fe0.jpeg)
-<br />
 ![Tela de compra 2 UaiFly](https://user-images.githubusercontent.com/104326131/208183312-128c8a15-6560-4847-aae2-c346cd463170.jpeg)
-<br />
 ![Tela de compra 3 UaiFly](https://user-images.githubusercontent.com/104326131/208183340-03f9fecd-33a2-45d0-91b5-068e15b4e884.jpeg)
 
-O usuário deve inserir o local de partida  para que todas opções de cidades com voos disponíveis partindo do local desejado apareçam e, assim, o usuário poderá adicionar ao carrinho de compras a opção desejada.
+O usuário deve inserir o local de partida  para que todas opções de cidades com voos disponíveis partindo do local desejado apareçam e, assim, poderá adicionar ao carrinho de compras a opção desejada.
 
 **TELA DE CHECK-IN E DE CANCELAMENTO**
 
