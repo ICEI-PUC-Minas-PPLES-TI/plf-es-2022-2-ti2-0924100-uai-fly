@@ -161,9 +161,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Nome | Text | - | - |
 | Email | Text | Padrao E-mail | - |
 | Senha | Password | Mínimo de 6 Caractere | - |
-| Idade | Number | Máximo 3 caractere | - |
 | Cpf | Number | Deve conter 11 Caractere | - |
-| Endereco | Text | Mínimo 5 caractere | - |
 
 **Cadastro do cartão**
 
@@ -182,11 +180,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Nome | Text | -  | - |
-| Dimensão | Number | Máximo de 4 Caractere | - |
-| Peso | Number | Máximo de 2 Caractere | - |
-| Estado | Text | Máximo 2 Caractere | - |
-| Cidade | Text | - | - |
-
+| Quantidade | Number | Máximo 3 Caracteres | - |
 
 
 #### Processo 3 – COMPRA DE PASSAGEM
