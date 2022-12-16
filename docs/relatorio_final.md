@@ -181,6 +181,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Nome | Text | -  | - |
+| Cpf | Number | -  | - |
 | Quantidade | Number | Máximo 3 Caracteres | - |
 
 
