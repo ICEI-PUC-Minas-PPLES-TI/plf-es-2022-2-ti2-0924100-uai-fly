@@ -327,25 +327,8 @@ Após a conclusão da compra ou do cancelamento das passagens aparecerá a tela 
 **TELA DE AJUDA**
 
 ![Tela de ajuda UaiFly](https://user-images.githubusercontent.com/104326131/207866362-d1629189-2e55-4830-83ff-fcbdacf878f5.jpeg)
+
 Espaço destinado ao esclarecimento de dúvidas durante o processo de compra ou cancelamento.
-
-Tela inicial e de login: https://replit.com/@Beatrizde5/Pagina-inicial?v=1
-
-Tela de avaliação: https://replit.com/@MariaEChispimS/TIAP-AVALIACAO-DOS-SERVICOS-UAI-FLY?v=1
-
-Tela de compra de passagem: https://replit.com/@Beatrizde5/FarawayWellinformedIntroductory#index.html
-
-Tela de pagamento: https://replit.com/@Beatrizde5/carrinho#index.html
-
-Tela de check-in e cancelamento: https://replit.com/@Beatrizde5/Check-in-e-cancelamento
-
-Tela de ajuda: https://ajuda.beatrizde5.repl.co/
-
-Barra de pesquisa: https://replit.com/@vifersouza/BarraPesquisaDEMO#index.html
-
-Tela de mensagem: https://replit.com/@Beatrizde5/mensagem
-
-Todas as telas juntas: https://uai-fly.beatrizde5.repl.co/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SITE NO AR: https://www.uaifly.xdlab.com.br/
