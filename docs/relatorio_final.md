@@ -296,7 +296,8 @@ O usuário deverá preencher os dados cadastrais para que possa ter acesso às c
 
 **TELA DE LOGIN**
 
-![Tela de login UaiFly](https://user-images.githubusercontent.com/104326131/207866223-dcbebe03-158d-43c1-b08b-918e5efff7d7.jpeg)
+![entrar](https://user-images.githubusercontent.com/76188108/208054237-389fceca-5951-4fa9-a521-11ec3a6e7c7b.png)
+
  O usuário deve inserir o email e senha cadastrados para entrar no site.
 
 **TELA DE COMPRA**
