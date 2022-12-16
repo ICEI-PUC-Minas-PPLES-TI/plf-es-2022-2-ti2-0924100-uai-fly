@@ -110,7 +110,7 @@ Este processo mostra com será o sistema de despacho de bagagens. / O despacho s
 
 Este processo mostra como será o processo da compra de passagens.
 
-![image](https://user-images.githubusercontent.com/99293679/191337291-64f367a6-80ee-438a-a625-ee451befa123.png)
+![image](https://user-images.githubusercontent.com/99293679/208048547-29d17285-1223-4d78-92a9-9ed68d4920b8.png)
 
 
 ### 3.3.1 Processo 4–  Check-in
