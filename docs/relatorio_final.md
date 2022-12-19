@@ -380,7 +380,7 @@ Dos artefatos (armazenado do repositório): https://github.com/ICEI-PUC-Minas-PP
 
 Da apresentação final (armazenado no repositório): https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-uai-fly/blob/master/docs/Apresenta%C3%A7%C3%A3o%20UAI-Fly.pdf
 
-Do vídeo de apresentação (armazenado no repositório).
+Do vídeo de apresentação (armazenado no repositório): https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti2-0924100-uai-fly/blob/master/docs/V%C3%ADdeo%20UAI-Fly.mp4
 
 
 
